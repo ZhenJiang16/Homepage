@@ -10,6 +10,8 @@ redirect_from:
 
 Welcome! I am a Postdoctoral Research Fellow in the Department of Chemistry, University of Pennsylvania. My current supervisor is Prof. Andrew M Rappe. I earned my Ph.D in Chemical and Biomolecular Engineersing from the University of Nebraska-Lincoln. My doctoral thesis is about firs-principles study of all-vanadium redox flow batteries under the supervise of Prof. Vitaly Alexandrov. I also obtained my master degree at Xiamen University, China, working with Prof. Wei Wu and Prof. Peifeng Su. My B.A. in Pharmacy is Nanjing University of Chinese Medicine, China.
 
+Generally speaking, I am interested and experienced on the design of energy storages, including redox flow batteries, lithium batteries, and fuel cells.  
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
