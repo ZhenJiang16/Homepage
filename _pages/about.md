@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Computational materials for energy stroages and electrocatalysis,batteries"
+title: "Computational Materials for Energy Storages and Electrocatalysis"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
