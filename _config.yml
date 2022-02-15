@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
+#twitter:
+#  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Zhen Jiang"
   avatar           : "profile.jpeg"
-  bio              : "Postdoc"
+  bio              : "Postdoc, He/Him/His"
   location         : "Philadelphia, PA"
   employer         : "University of Pennsylvania" 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=252n0esAAAAJ&hl"
   email            : "zjiang16@sas.upenn.edu"
   researchgate     : "https://www.researchgate.net/profile/Zhen-Jiang"
