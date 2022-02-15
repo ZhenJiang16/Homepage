@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! I am a Postdoctoral Research Fellow in the Department of Chemistry, University of Pennsylvania. My current supervisor is Prof. Andrew M Rappe. I earned my Ph.D in Chemical and Biomolecular Engineersing from the University of Nebraska-Lincoln. My doctoral thesis is about firs-principles study of all-vanadium redox flow batteries under the supervise of Prof. Vitaly Alexandrov. I also obtained my master degree at Xiamen University, China, working with Prof. Wei Wu and Prof. Peifeng Su. My B.A. in Pharmacy is Nanjing University of Chinese Medicine, China.
 
-Generally speaking, I am interested and experienced on the design of energy storages, including redox flow batteries, lithium batteries, and fuel cells.  
+Generally speaking, I am interested and experienced on the design of energy storages, including redox flow batteries, lithium batteries, and fuel cells. In addition, 
 
 A data-driven personal website
 ======
