@@ -2,8 +2,8 @@
 title: "**[12]** Stromataxic Stabilization of a Metastable Layered ScFeO$_3$ Polymorph"
 collection: publications
 permalink: /publication/garten21stromataxic
-excerpt: "Lauren M Garten<sup>#</sup>, **Zhen Jiang<sup>#</sup>**, Hanjong Paik, John D Perkins, Arvin Kakekhani, Ruixiang Fei, Don J Werder, Megan E Holtz, David S Ginley, Andrew M. Rappe, Darrell G Schlom, Margo L Staruch"
-date: "**<sup>#</sup>: equal contribution**"
+excerpt: "Lauren M Garten<sup>#</sup>, **Zhen Jiang<sup>#</sup>**, Hanjong Paik, John D Perkins, Arvin Kakekhani, Ruixiang Fei, Don J Werder, Megan E Holtz, David S Ginley, Andrew M. Rappe, Darrell G Schlom, Margo L Staruch **<sup>#</sup>: equal contribution**"
+date: "2021-09-13"
 venue: 'Chem. Mater.'
 paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.1c02079'
 citation: 'Chem. Mater. 33(18), 7423-7431 (2021)'
