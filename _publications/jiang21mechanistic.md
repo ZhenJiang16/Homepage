@@ -1,9 +1,9 @@
 ---
-title: "**[13]** Mechanistic Study of the Li–Air Battery with a Co<sub>3</sub>O<sub>4</sub> Cathode and Dimethyl Sulfoxide Electrolyte"
+title: "**13.** Mechanistic Study of the Li–Air Battery with a Co<sub>3</sub>O<sub>4</sub> Cathode and Dimethyl Sulfoxide Electrolyte"
 category: 'journal'
 collection: publications
 permalink: /publication/jiang21mechanistic
-excerpt: "**Zhen Jiang**, and Andrew M. Rappe"
+excerpt: "**(Cover Art Invitation)**   <br/>**Zhen Jiang**, and Andrew M. Rappe"
 paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.1c07619'
 citation: 'J. Phys. Chem. C 125(40), 21873-21881 (2021)'
 ---
