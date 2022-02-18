@@ -4,6 +4,7 @@ category: 'journal'
 collection: publications
 permalink: /publication/jiang21mechanistic
 excerpt: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(Cover Art Invitation)**   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Zhen Jiang**, and Andrew M. Rappe"
+date: "2021-10-05"
 paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.1c07619'
 citation: '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>J. Phys. Chem. C</i> 125(40), 21873-21881 (2021)'
 ---
