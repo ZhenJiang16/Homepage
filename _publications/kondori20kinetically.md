@@ -2,7 +2,7 @@
 title: "**11.** Kinetically Stable Oxide Overlayers on Tri-Molybdenum Phosphide (Mo<sub>3</sub>P) Nanoparticles Enabling Lithium-Air Batteries with Low Overpotentials and Long Cycle Life"
 category: 'journal'
 collection: publications
-permalink: /publication/jiang21mechanistic
+permalink: /publication/kondori20kinetically
 excerpt: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alireza Kondori, **Zhen Jiang**, Mohammadreza Esmaeilirad, Arvin Kakekhani, Kamil Kucuk, Pablo Navarro Munoz Delgado, Sadaf Maghsoudipour, John Hayes, Christopher S Johnson, Carlo U Segre, Reza Shahbazian-Yassar, Andrew M. Rappe, and Mohammad Asadi <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1st author in theoretical part**"
 date: "2020-11-09"
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202004028'
