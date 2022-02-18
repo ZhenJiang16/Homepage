@@ -1,5 +1,5 @@
 ---
-title: "**[12]** Stromataxic Stabilization of a Metastable Layered ScFeO$_3$ Polymorph"
+title: "**12.** Stromataxic Stabilization of a Metastable Layered ScFeO$_3$ Polymorph"
 collection: publications
 permalink: /publication/garten21stromataxic
 excerpt: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lauren M Garten<sup>#</sup>, **Zhen Jiang<sup>#</sup>**, Hanjong Paik, John D Perkins, Arvin Kakekhani, Ruixiang Fei, Don J Werder, Megan E Holtz, David S Ginley, Andrew M. Rappe, Darrell G Schlom, Margo L Staruch <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**<sup>#</sup>: equal contribution**"
