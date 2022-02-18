@@ -14,7 +14,7 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
-
+  text-align: justify;
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
@@ -39,6 +39,7 @@ h2 {
 
 h3 {
   font-size: $type-size-9;
+  text-align: justify;
 }
 
 h4 {
@@ -60,6 +61,7 @@ small, .small {
 p {
     padding : 0;
     margin : 0;
+    text-align: justify;
 }
 
 u,
