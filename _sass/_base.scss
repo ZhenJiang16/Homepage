@@ -118,12 +118,14 @@ blockquote {
 a {
   text-decoration: none;
   &:focus {
-    @extend %tab-focus;
+  text-decoration: none;
+  @extend %tab-focus;
   }
 
-  &:hover,
+  &:hover {text-decoration: none;}
   &:active {
     outline: 0;
+  text-decoration: none;
   }
 }
 
