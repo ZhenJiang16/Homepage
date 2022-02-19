@@ -15,10 +15,10 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -40,6 +40,7 @@
 }
 
 .archive__item-title {
+  text-decoration: none;
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
 
@@ -54,7 +55,7 @@
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
-  }
+    text-decoration: none;}
 }
 
 .archive__item-excerpt {
@@ -80,7 +81,7 @@
   }
 
   .archive__item-title {
-    text-decoration: underline;
+    text-decoration: none;
   }
 }
 
