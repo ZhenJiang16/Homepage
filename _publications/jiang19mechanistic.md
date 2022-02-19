@@ -1,5 +1,5 @@
 ---
-title: "**5.**  &nbsp;&nbsp;Mechanistic Theoretical Investigation of Self-Discharge Reactions in a Vanadium Redox Flow Battery"
+title: "**5.** Mechanistic Theoretical Investigation of Self-Discharge Reactions in a Vanadium Redox Flow Battery"
 category: 'journal'
 collection: publications
 permalink: /publication/jiang19mechanistic
