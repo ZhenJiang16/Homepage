@@ -1,5 +1,5 @@
 ---
-title: "<STYLE> **6.**  Magnetoelectric Effect at the Ni/HfO2 Interface Induced by Ferroelectric Polarization. {text-decoration: none;} </STYLE>"
+title: "style="text-decoration:none" **6.**  Magnetoelectric Effect at the Ni/HfO2 Interface Induced by Ferroelectric Polarization."
 category: 'journal'
 collection: publications
 permalink: /publication/yang19magnetoelectric
