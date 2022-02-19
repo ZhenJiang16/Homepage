@@ -1,9 +1,9 @@
 ---
-title: "**8.**Enhancing Oxygen Electroreduction Activity of Single-Site Fe-N-C Catalysts by a Metal Support." 
+title: "**8.**  Enhancing Oxygen Electroreduction Activity of Single-Site Fe-N-C Catalysts by a Metal Support." 
 category: 'journal'
 collection: publications
 permalink: /publication/jiang19enhancing
-excerpt: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Zhen Jiang**,Vitaly Alexandrov"
+excerpt: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Zhen Jiang**, and Vitaly Alexandrov"
 date: "2019-11-22"
 paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.9b07860'
 citation: '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>J. Phys. Chem. C</i> 123, 30335–30340 (2019)'

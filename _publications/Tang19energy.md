@@ -1,5 +1,5 @@
 ---
-title: "**9.** Energy Decomposition Analysis Based on Broken Symmetry Unrestricted Density Functional Theory"
+title: "**9.**  Energy Decomposition Analysis Based on Broken Symmetry Unrestricted Density Functional Theory"
 category: 'journal'
 collection: publications
 permalink: /publication/tang19energy

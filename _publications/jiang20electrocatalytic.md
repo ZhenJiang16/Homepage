@@ -3,7 +3,7 @@ title: "**10.** Electrocatalytic Activity of Oxygen Functionalized Carbon Electr
 category: 'journal'
 collection: publications
 permalink: /publication/jiang20electrocatalytic
-excerpt: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Zhen Jiang**, Vitaly Alexandrov"
+excerpt: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Zhen Jiang**, and Vitaly Alexandrov"
 date: "2020-07-09"
 paperurl: 'https://pubs.acs.org/doi/10.1021/acsaem.0c00972'
 citation: '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>ACS Appl. Energy Mater.</i> 3(8), 7543-7549 (2020)'
