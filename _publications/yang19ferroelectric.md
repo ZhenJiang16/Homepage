@@ -1,5 +1,5 @@
 ---
-title: "**8.**  Ferroelectric Tunnel Junctions Enhanced by a Polar Oxide Barrier Layer."
+title: "**7.**  Ferroelectric Tunnel Junctions Enhanced by a Polar Oxide Barrier Layer."
 category: 'journal'
 collection: publications
 permalink: /publication/yang19ferroelectric
