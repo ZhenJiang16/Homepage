@@ -1,5 +1,5 @@
 ---
 title: ""
-excerpt: "<img src='./research.png' style='width:500px;'> "
+excerpt: "<img src='./research.png' style='width:800px;'> "
 collection: portfolio
 ---
