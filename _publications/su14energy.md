@@ -1,5 +1,5 @@
 ---
-title: "**1.**  An energy decomposition scheme based on the generalized Kohn-Sham Scheme"
+title: "**1.**  &nbsp;&nbsp;An energy decomposition scheme based on the generalized Kohn-Sham Scheme"
 category: 'journal'
 collection: publications
 permalink: /publication/su14energy
