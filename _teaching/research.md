@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
+collection: archive__item
+type: "grid"
 permalink: /teaching/research
 excerpt: "![]({{site.baseurl}}/images/research.png){: height="600px" width="800px"}"
 venue: "University 1, Department"
