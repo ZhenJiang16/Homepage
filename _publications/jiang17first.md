@@ -3,7 +3,7 @@ title: "**3.** First-Principles Study of Adsorption-Desorption Kinetics of Aqueo
 category: 'journal'
 collection: publications
 permalink: /publication/jiang17first
-excerpt: "**(2017 PCCP Hot Paper)** <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Zhen Jiang**, Konstantin Klyukin, and Vitaly Alexandrov"
+excerpt: "**(2017 PCCP Hot Paper)** <br/>**Zhen Jiang**, Konstantin Klyukin, and Vitaly Alexandrov"
 date: "2017-05-16"
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp02350b/unauth'
 citation: '<i>Phys. Chem. Chem. Phys.</i> 19, 14897-14901 (2017)'

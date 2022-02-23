@@ -3,7 +3,7 @@ title: "**2.** Structure, Hydrolysis and Diffusion of Aqueous Vanadium Ions from
 category: 'journal'
 collection: publications
 permalink: /publication/jiang16structure
-excerpt: "**(2016 Editor's Choice)** <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Zhen Jiang**, Konstantin Klyukin, and Vitaly Alexandrov"
+excerpt: "**(2016 Editor's Choice)** <br/>**Zhen Jiang**, Konstantin Klyukin, and Vitaly Alexandrov"
 date: "2016-09-21"
 paperurl: 'https://aip.scitation.org/doi/abs/10.1063/1.4962748'
 citation: '<i>J. Chem. Phys.</i> 145, 114303-114311 (2016)'
