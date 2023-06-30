@@ -19,4 +19,6 @@ redirect_from:
 <br/>2007.09-2011.06    B.S. Nanjing University of Chinese Medicine
 
 <span style='color: $twitter-color;'>**ENERGY STORAGES**</span>
-<br/>![]({{site.baseurl}}/images/Li_air_Batteries_cover_page.png){: height="400px" width="200px"} . 
+<br/>![]({{site.baseurl}}/images/Li_air_Batteries_cover_page.png){: height="400px" width="200px"} .
+<br/> JACS, 2022, 144, 22150
+<br/> Nat. Mater. 2023, accepted 
