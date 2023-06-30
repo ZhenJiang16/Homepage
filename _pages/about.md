@@ -20,5 +20,5 @@ redirect_from:
 
 <br/>![]({{site.baseurl}}/images/Li_air_Batteries_cover_page.png){: height="350px" width="165px"} 
 <br/><span style="color: green">**ENERGY STORAGES**</span>
-<br/><span style='color: $twitter-color;'>JACS</span>, 2022
+<br/><span style="color: red">JACS</span>, 2022
 <br/>Nat. Mater. 2023
