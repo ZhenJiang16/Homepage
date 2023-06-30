@@ -24,5 +24,4 @@ redirect_from:
 
 2007.09-2011.06    B.S. Nanjing University of Chinese Medicine
 
-<center><img src='./Li_air_Batteries_cover_page.png' style='width:800px;'></center>
-<br/>![]({{site.baseurl}}/images/Li_air_Batteries_cover_page.png){: height="400px" width="800px"} . 
+<br/>![]({{site.baseurl}}/images/Li_air_Batteries_cover_page.png){: height="100px" width="50px"} . 
