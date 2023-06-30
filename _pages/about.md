@@ -14,7 +14,7 @@ redirect_from:
 
 2022.08-2023.07    Postdoc University of Wisconsin-Madison
 
-2019.08-2022.07    Postoc  University of Pennsylvania
+2019.08-2022.07    Postdoc University of Pennsylvania
  
 #Welcome! I am a postdoctoral fellow (2019-present) in the Department of Chemistry, University of Pennsylvania (UPenn). My current supervisor is Prof. Andrew M Rappe. I am working on multiple projects at UPenn, including Li-air batteries, Li-ion batteries, covalent organic framework, electrocatalysis on topological insulator surfaces, thin film growth techniques, etc. 
 
