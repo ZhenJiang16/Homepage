@@ -23,4 +23,6 @@ redirect_from:
 2011.09-2014.06    M.S. Xiamen University 
 
 2007.09-2011.06    B.S. Nanjing University of Chinese Medicine
+
+excerpt: "<center><img src='../images/Li_air_Batteries_cover_page.png' style='width:800px;'></center>"
  
