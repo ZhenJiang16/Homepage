@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Educational & Professional Experience
+<span style='color: $twitter-color;'>**Educational & Professional Experience**</span>
  
 #Welcome! I am a postdoctoral fellow (2019-present) in the Department of Chemistry, University of Pennsylvania (UPenn). My current supervisor is Prof. Andrew M Rappe. I am working on multiple projects at UPenn, including Li-air batteries, Li-ion batteries, covalent organic framework, electrocatalysis on topological insulator surfaces, thin film growth techniques, etc. 
 
