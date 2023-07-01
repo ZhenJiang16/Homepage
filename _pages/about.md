@@ -22,5 +22,5 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![]({{site.baseurl}}/images/ImF-CO2RR-Cover-Art.jpg){: height="300px" width="150px"}
 <br/><span style="color: green">**ENERGY STORAGES**</span>
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: red">**<i>JACS</i>**</span>, 2022
-<i class="fab fa-sistrix fa-lg" style="color: #f53100;">[Read](https://pubs.acs.org/doi/abs/10.1021/jacs.2c09700)
+<i class="fab fa-sistrix fa-sm" style="color: #f53100;">[Read](https://pubs.acs.org/doi/abs/10.1021/jacs.2c09700)
 <br/>&nbsp;&nbsp;<span style="color: red">**Nat. Mater.**</span>, 2023
