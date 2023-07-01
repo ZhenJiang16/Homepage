@@ -18,8 +18,9 @@ redirect_from:
 <br/>2011.09-2014.06    M.S. Xiamen University 
 <br/>2007.09-2011.06    B.S. Nanjing University of Chinese Medicine
 
+
 ![]({{site.baseurl}}/images/Li_air_Batteries_cover_page.png){: height="350px" width="165px"} 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![]({{site.baseurl}}/images/ImF-CO2RR-Cover-Art.jpg){: height="300px" width="150px"}
 <br/><span style="color: green">**ENERGY STORAGES**</span>
-<br/>&nbsp;<span style="color: red">**<i>JACS</i>**</span>, 2022 <i class="fab fa-sistrix" style="color: #f53100;">[DOI](https://pubs.acs.org/doi/abs/10.1021/jacs.2c09700)
+<p>&nbsp;<span style="color: red">**<i>JACS</i>**</span>, 2022 <i class="fab fa-sistrix" style="color: #f53100;">[DOI](https://pubs.acs.org/doi/abs/10.1021/jacs.2c09700)</p>
 <br/>&nbsp;&nbsp;<span style="color: red">**Nat. Mater.**</span>, 2023
