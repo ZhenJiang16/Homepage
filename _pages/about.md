@@ -19,7 +19,7 @@ redirect_from:
 <br/>2007.09-2011.06    B.S. Nanjing University of Chinese Medicine
 
 ![]({{site.baseurl}}/images/Li_air_Batteries_cover_page.png){: height="350px" width="165px"} 
-![]({{site.baseurl}}/images/ImF-CO2RR-Cover-Art..png){: height="350px" width="165px"}
+![]({{site.baseurl}}/images/ImF-CO2RR-Cover-Art.jpg){: height="350px" width="165px"}
 <br/><span style="color: green">**ENERGY STORAGES**</span>
 <br/><span style="color: red">JACS</span>, 2022
 <br/>Nat. Mater. 2023
