@@ -23,5 +23,5 @@ redirect_from:
 <br/><span style="color: green">**ENERGY STORAGES**</span>
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: red">**JACS**</span>, 2022
 U+1F4CE
-link: 'https://pubs.acs.org/doi/abs/10.1021/jacs.2c09700'
+<https://pubs.acs.org/doi/abs/10.1021/jacs.2c09700>
 <br/>&nbsp;&nbsp;<span style="color: red">**Nat. Mater.**</span>, 2023
