@@ -21,7 +21,7 @@ redirect_from:
 
 ![]({{site.baseurl}}/images/Li_air_Batteries_cover_page.png){: height="350px" width="165px"} 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![]({{site.baseurl}}/images/ImF-CO2RR-Cover-Art.jpg){: height="300px" width="150px"}
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![]({{site.baseurl}}/images/Nb2O5-Cover-Art.png){: height="300px" width="150px"}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![]({{site.baseurl}}/images/Nb2O5-Cover-Art-no-texts.png){: height="300px" width="150px"}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![]({{site.baseurl}}/images/HDPE-decomposition-Cover-Art.jpeg){: height="300px" width="150px"}
 <br/><span style="color: green">**ENERGY STORAGES**</span>
 <br/>&nbsp;<span style="color: red">**<i>JACS</i>**</span>, 2022 <i class="fab fa-sistrix" style="color: #f53100;"></i>[<u>DOI</u>](https://pubs.acs.org/doi/abs/10.1021/jacs.2c09700)
