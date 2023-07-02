@@ -24,6 +24,7 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![]({{site.baseurl}}/images/ImF-CO2RR-Cover-Art.jpg){: height="300px" width="150px"}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![]({{site.baseurl}}/images/Nb2O5-Cover-Art-no-texts.png){: height="300px" width="150px"}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![]({{site.baseurl}}/images/HDPE-decomposition-Cover-Art.jpeg){: height="300px" width="150px"}
-<br/><span style="color: green">**ENERGY STORAGES**</span>
 <br/>&nbsp;<span style="color: red">**<i>JACS</i>**</span>, 2022 <i class="fab fa-sistrix" style="color: #f53100;"></i>[<u>DOI</u>](https://pubs.acs.org/doi/abs/10.1021/jacs.2c09700)
-<br/>&nbsp;&nbsp;<span style="color: red">**Nat. Mater.**</span>, 2023
+&nbsp;&nbsp;<span style="color: red">**Nat. Energy**</span>, 2023 <i class="fab fa-sistrix" style="color: #f53100;"></i><u>DOI</u>
+&nbsp;&nbsp;<span style="color: red">**Nat. Mater.**</span>, 2023 <i class="fab fa-sistrix" style="color: #f53100;"></i><u>DOI</u>
+&nbsp;&nbsp;<span style="color: red">**Science**</span>, 2023 <i class="fab fa-sistrix" style="color: #f53100;"></i><u>DOI</u>
