@@ -19,7 +19,7 @@ redirect_from:
 <br/>2007.09-2011.06    B.S. Nanjing University of Chinese Medicine
 
 
-<br/><p><span style="color: green">**ENERGY STORAGES**</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: black">**ELECTROCATALYSIS**</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: orange">**SUPERCONDUCTORS**</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: purple">**POLYMER CHEMISTRY**</span></p>
+<p><span style="color: green">**ENERGY STORAGES**</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: black">**ELECTROCATALYSIS**</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: orange">**SUPERCONDUCTORS**</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: purple">**POLYMER CHEMISTRY**</span></p>
 <br/>![]({{site.baseurl}}/images/Li_air_Batteries_cover_page.png){: height="350px" width="165px"} 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![]({{site.baseurl}}/images/ImF-CO2RR-Cover-Art.jpg){: height="300px" width="150px"}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![]({{site.baseurl}}/images/Nb2O5-Cover-Art-no-texts.png){: height="300px" width="150px"}
