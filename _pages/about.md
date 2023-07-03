@@ -20,7 +20,7 @@ redirect_from:
 
 
 <span style="color: green">**ENERGY STORAGES**</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: black">**ELECTROCATALYSIS**</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: orange">**SUPERCONDUCTORS**</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: purple">**POLYMER CHEMISTRY**</span>
-<br/>![]({{site.baseurl}}/images/Li_air_Batteries_cover_page.png){: height="350px" width=20%} 
+<br/>![]({{site.baseurl}}/images/Li_air_Batteries_cover_page.png){: height="350px" width=5%} 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![]({{site.baseurl}}/images/ImF-CO2RR-Cover-Art.jpg){: height="300px" width="150px"}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![]({{site.baseurl}}/images/Nb2O5-Cover-Art-no-texts.png){: height="300px" width="150px"}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![]({{site.baseurl}}/images/HDPE-decomposition-Cover-Art.jpeg){: height="300px" width="150px"}
