@@ -20,7 +20,7 @@ redirect_from:
 
 ![]({{site.baseurl}}/images/website_homepage.png){: height="280px" width="800px" style="display:block"}
 <style>
-table border-collapse="collapse" border="-1"
+table border-collapse="collapse" border="-10"
 table th:first-of-type {
     width: 10%;
 }
