@@ -21,7 +21,7 @@ redirect_from:
 ![]({{site.baseurl}}/images/website_homepage.png){: height="300px" width="800px"}
 <style>
   .demo-one {
-    width: 300px;
+    width: 800px;
     border: red 1px solid;
   }
 </style>
