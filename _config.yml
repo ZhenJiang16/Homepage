@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhen Jiang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zhen Jiang"
 description              : &description "personal description"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Zhen Jiang"
   avatar           : "profile.jpeg"
-  bio              : "Postdoc, UPenn"
-  location         : "Philadelphia, PA"
-  employer         : "University of Pennsylvania" 
+  bio              : "Postdoc, NU"
+  location         : "Evanston, IL"
+  employer         : "Northwestern University" 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=252n0esAAAAJ&hl"
   email            : "zjiang16@sas.upenn.edu"
