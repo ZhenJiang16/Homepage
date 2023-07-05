@@ -19,16 +19,10 @@ redirect_from:
 <br/>2007.09-2011.06    B.S. Nanjing University of Chinese Medicine
 
 ![]({{site.baseurl}}/images/website_homepage.png){: height="300px" width="800px"}
-<style>
-  .demo-one {
-    width: 800px;
-  }
-</style>
-
-<full-width-text class="demo-one">
+<div class="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fab fa-sistrix" style="color: #f53100;"></i> <a href="https://pubs.acs.org/doi/abs/10.1021/jacs.2c09700"> <u>DOI</u> </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fab fa-sistrix" style="color: #f53100;"></i><u>DOI</u>
 &ensp;&nbsp;<i class="fab fa-sistrix" style="color: #f53100;"></i> <a href="https://doi.org/10.1038/s41563-023-01612-2"> <u>DOI</u> </a>
 &nbsp;&nbsp;<i class="fab fa-sistrix" style="color: #f53100;"></i><u>DOI</u>
-</full-width-text>
+</div>
 
