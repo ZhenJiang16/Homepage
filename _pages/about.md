@@ -22,7 +22,6 @@ redirect_from:
 <style>
   .demo-one {
     width: 800px;
-    border: red 1px solid;
   }
 </style>
 
