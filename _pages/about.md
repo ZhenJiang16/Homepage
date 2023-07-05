@@ -19,8 +19,8 @@ redirect_from:
 <br/>2007.09-2011.06    B.S. Nanjing University of Chinese Medicine
 
 <br/>
-![]({{site.baseurl}}/images/website_homepage.pdf){: height="300px" width="800px"}
-<br/>&nbsp;<span style="color: red">**JACS**</span>, 2022 <i class="fab fa-sistrix" style="color: #f53100;"></i>[<u>DOI</u>](https://pubs.acs.org/doi/abs/10.1021/jacs.2c09700)
+![]({{site.baseurl}}/images/website_homepage.png){: height="300px" width="800px"}
+<br/>&nbsp;<i class="fab fa-sistrix" style="color: #f53100;"></i>[<u>DOI</u>](https://pubs.acs.org/doi/abs/10.1021/jacs.2c09700)
 &nbsp;&nbsp;<i class="fab fa-sistrix" style="color: #f53100;"></i><u>DOI</u>
 &nbsp;&nbsp;<span style="color: red">**Nat. Mater.**</span>, 2023 <i class="fab fa-sistrix" style="color: #f53100;"></i><u>DOI</u>
 &nbsp;&nbsp;<span style="color: red">**Science**</span>, 2023 <i class="fab fa-sistrix" style="color: #f53100;"></i><u>DOI</u>
