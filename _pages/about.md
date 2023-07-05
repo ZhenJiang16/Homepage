@@ -18,7 +18,7 @@ redirect_from:
 <br/>2011.09-2014.06    M.S. Xiamen University 
 <br/>2007.09-2011.06    B.S. Nanjing University of Chinese Medicine
 
-![]({{site.baseurl}}/images/website_homepage.png){: height="300px" width="1000px"}
+![]({{site.baseurl}}/images/website_homepage.png){: height="300px" width="800px"}
 <div class="center-justified">
 &nbsp;&nbsp;<i class="fab fa-sistrix" style="color: #f53100;"></i> <a href="https://pubs.acs.org/doi/abs/10.1021/jacs.2c09700"> <u>DOI</u> </a>
 &nbsp;&nbsp;<i class="fab fa-sistrix" style="color: #f53100;"></i><u>DOI</u>
