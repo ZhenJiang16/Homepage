@@ -20,9 +20,11 @@ redirect_from:
 
 ![]({{site.baseurl}}/images/website_homepage.png){: height="300px" width="800px"}
 <div class="justify">
+<span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fab fa-sistrix" style="color: #f53100;"></i> <a href="https://pubs.acs.org/doi/abs/10.1021/jacs.2c09700"> <u>DOI</u> </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fab fa-sistrix" style="color: #f53100;"></i><u>DOI</u>
 &ensp;&nbsp;<i class="fab fa-sistrix" style="color: #f53100;"></i> <a href="https://doi.org/10.1038/s41563-023-01612-2"> <u>DOI</u> </a>
 &nbsp;&nbsp;<i class="fab fa-sistrix" style="color: #f53100;"></i><u>DOI</u>
+</span>
 </div>
 
