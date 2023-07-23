@@ -50,8 +50,6 @@
       <p> {{ post.citation }} <br/><a href="{{ post.paperurl }}"> {{ post.paperurl }} </a> </p>
     {% elsif post.citation %}
       <p>{{ post.citation }} </p>
-    {% elsif post.paperurl %}
-      <h2> color:red; <br/>Download <a href=" {{ post.paperurl }} ">here</a></h2>
     {% endif %}
   </article>
 </div>
