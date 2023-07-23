@@ -2,6 +2,7 @@
 title: "**14.** Uncovering the Electrolyte-Dependent Transport Mechanism of LiO<sub>2</sub> in Lithium-Oxygen Batteries"
 category: 'journal'
 collection: publications
+permalink: /publication/jiang22uncovering
 excerpt: "**(Cover Art Invitation)**   <br/>**Zhen Jiang**, and Andrew M. Rappe"
 date: "2022-11-28"
 paperurl: 'https://pubs.acs.org/doi/abs/10.1021/jacs.2c09700'
