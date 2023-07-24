@@ -4,5 +4,5 @@ category: 'journal'
 collection: publications
 excerpt: "Syed Mohamed, Tan Zhang, **Zhen Jiang**, Andrew M. Rappe, and Siamak Nejati"
 date: "2022-10-20"
-citation: '<a href="https://pubs.acs.org/doi/full/10.1021/acs.jpclett.2c02543"> <span style="color: orange">**<i>J. Phys. Chem. Lett.</i>**</span> 13, 10030-10034 (2022) </a>'
+citation: '<a href="https://pubs.acs.org/doi/full/10.1021/acs.jpclett.2c02543"> **<span style="color: orange"><i>J. Phys. Chem. Lett.</i></span>** 13, 10030-10034 (2022) </a>'
 ---
