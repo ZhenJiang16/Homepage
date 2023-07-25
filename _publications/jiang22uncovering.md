@@ -1,5 +1,5 @@
 ---
-title: "**17.** Uncovering the Electrolyte-Dependent Transport Mechanism of LiO<sub>2</sub> in Lithium-Oxygen Batteries"
+title: "**18.** Uncovering the Electrolyte-Dependent Transport Mechanism of LiO<sub>2</sub> in Lithium-Oxygen Batteries"
 category: 'journal'
 collection: publications
 excerpt: "**(Cover Art Invitation)**   <br/>**Zhen Jiang**, and Andrew M. Rappe"

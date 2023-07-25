@@ -1,5 +1,5 @@
 ---
-title: "**15.** Ion Flux Self-Regulation Strategy with a Volume-Responsive Separator for Lithium Metal Batteries"
+title: "**16.** Ion Flux Self-Regulation Strategy with a Volume-Responsive Separator for Lithium Metal Batteries"
 category: 'journal'
 collection: publications
 excerpt: "Chuan Shi, Lei Zhang, Xiu Ting, Tong Sun<sup>*</sup>, **Zhen Jiang<sup>*</sup>**, and Jinbao Zhao<sup>*</sup> (**<sup>*</sup>: corresponding authors**)"
