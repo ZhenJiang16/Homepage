@@ -49,6 +49,16 @@
   }
 }
 
+.archive__item-title-for-research {
+  text-decoration: none;
+  margin-bottom: 0.25em;
+  font-family: $sans-serif-narrow;
+  color : $twitter-color;
+  a + a {
+    opacity: 0.5;
+  }
+}
+
 /* remove border*/
 .page__content {
 
