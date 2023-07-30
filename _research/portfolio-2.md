@@ -3,7 +3,7 @@ title: "<center><B>System-wide of Energy Storages</B></center>"
 layout: single-portfolio
 excerpt: "<center><img src='./research.png' style='width:800px;'></center>"
 collection: research
-order_number: 10
+order_number: 20
 header:
   og_image: "research/epr.png"
 ---
