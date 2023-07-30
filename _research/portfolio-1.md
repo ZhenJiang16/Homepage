@@ -1,7 +1,7 @@
 ---
 title: "<center><B>Li-air Batteries</B></center>"
 layout: single-portfolio
-excerpt: "<img src='/images/research/epr.png' alt=''>"
+excerpt: "<img src='./Li-air-battery.jpeg' alt=''>"
 collection: research
 order_number: 10
 header: 
