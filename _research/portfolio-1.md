@@ -1,11 +1,11 @@
 ---
 title: "<center><B>Li-air Batteries</B></center>"
 layout: single-portfolio
-excerpt: "<img src='../images/research/Li-air-battery.jpeg' alt=''>"
+excerpt: "<img src='../images/research/Li-air-battery.png' alt=''>"
 collection: research
 order_number: 10
 header: 
-  og_image: "../images/research/Li-air-battery.jpeg"
+  og_image: "../images/research/Li-air-battery.png"
 ---
 
 In this research I ask why some rebel groups 
