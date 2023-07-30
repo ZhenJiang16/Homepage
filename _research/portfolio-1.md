@@ -2,8 +2,8 @@
 title: "<center><u><B>Li-air Batteries</B></u></center>"
 layout: single-portfolio
 excerpt: "<center><img src='../images/research/Li-air-battery.png' style='width:200px;' alt=''></center>
-<br/>Keywords: Interfacial Discharging/Charging Mechanism
-<br/>R.P.: JACS 2022, Adv. Mater. 2020"
+<br/><FONT Size="1px"><center>Keywords: Interfacial Discharging/Charging Mechanism
+<br/> JACS 2022, Adv. Mater. 2020</center></FONT>"
 collection: research
 order_number: 10
 header: 
