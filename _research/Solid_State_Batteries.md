@@ -3,7 +3,7 @@ title: "<FONT Size='4.9px'><center><u><B>Solid-state Batteries</B></u></center><
 layout: single-portfolio
 excerpt: "<center><img src='../images/research/Solid-state-battery.png' style='width:200px;' alt=''></center>"
 collection: research
-order_number: 30
+order_number: 40
 author_profile: true
 header: 
   og_image: "/research/Solid-state-battery.png"

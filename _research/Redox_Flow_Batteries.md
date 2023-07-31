@@ -3,7 +3,7 @@ title: "<FONT Size='4.9px'><center><u><B>Redox-flow Batteries</B></u></center></
 layout: single-portfolio
 excerpt: "<center><img src='../images/research/Redox-flow-battery.png' style='width:200px;' alt=''></center>"
 collection: research
-order_number: 40
+order_number: 30
 author_profile: true
 header: 
   og_image: "/research/Redox-flow-battery.png"
