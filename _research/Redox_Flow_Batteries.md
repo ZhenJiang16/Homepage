@@ -1,5 +1,5 @@
 ---
-title: "<FONT Size='5px'><center><u><B>Redox-flow Battery</B></u></center></FONT>"
+title: "<FONT Size='4.8px'><center><u><B>Redox-flow Batteries</B></u></center></FONT>"
 layout: single-portfolio
 excerpt: "<br/><center><img src='../images/research/Redox-flow-battery.png' style='width:200px;' alt=''></center>"
 collection: research
