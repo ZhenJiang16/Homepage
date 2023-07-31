@@ -1,7 +1,7 @@
 ---
 title: "<FONT Size='5px'><center><u><B>Li-air Batteries</B></u></center></FONT>"
 layout: single-portfolio
-excerpt: "<center><img src='../images/research/Li-air-battery.png' style='width:200px;' alt=''></center>
+excerpt: "<center><img src='../images/research/Li-air-battery.png' style='width:200px;' alt=''></center>"
 collection: research
 order_number: 10
 author_profile: true
