@@ -1,15 +1,15 @@
 ---
-title: "<FONT Size='5px'><center><u><B>Completed Projects</B></u></center></FONT>"
+title: "<FONT Size='4.9px'><center><u><B>Completed Projects</B></u></center></FONT>"
 layout: single-portfolio
 excerpt: "
 <br/>
-<FONT Color='purple'; Size='4.5px'><center><B>GKS-EDA method</B></center></FONT>
+<FONT Color='purple'; Size='3.5px'><center><B>GKS-EDA method</B></center></FONT>
 <br/>
-<FONT Size='4.5px'><center><B>Thin Film Deposition</B></center></FONT>
+<FONT Size='3.5px'><center><B>Thin Film Deposition</B></center></FONT>
 <br/>
-<FONT Size='4.5px'><center><B>Ferroelectric Materials</B></center></FONT>
+<FONT Size='3.5px'><center><B>Ferroelectric Materials</B></center></FONT>
 <br/>
-<FONT Size='4.5px'><center><B>...</B></center></FONT>"
+<FONT Size='3.5px'><center><B>...</B></center></FONT>"
 collection: research
 order_number: 80
 author_profile: true
