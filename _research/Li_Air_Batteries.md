@@ -15,5 +15,6 @@ The Lithium-air batteries are found to offer extremely high theoretical energy d
 **Keywords**: <FONT Color='purple'><u><B>Interfacial Electrochemistry</B></u>; <u><B>Electrode Passivation</B></u>; <u><B>Aprotic Solvent (Donor Number)</B></u>; <u><B>Ab initio Molecular Dynamics Simulations</B></u>
 
 **Publications**: 
-4. *J. Phys. Chem. C* 125(40), 21873-21881 (**2021**); 
-3. *Adv. Mater.* 2004028 (**2020**)
+4. **Zhen Jiang**, and Andrew M. Rappe <span style="color: blue"><i><B>J. Am. Chem. Soc.</B></i></span> 144(48), 22150-22158 (2022). (Cover Art Invitation) <a href="https://pubs.acs.org/doi/abs/10.1021/jacs.2c09700">[DOI]</a> 
+3  *J. Phys. Chem. C* 125(40), 21873-21881 (**2021**); 
+2. *Adv. Mater.* 2004028 (**2020**)
