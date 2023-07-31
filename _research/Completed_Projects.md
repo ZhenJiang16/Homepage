@@ -3,7 +3,7 @@ title: "<FONT Size='4.9px'><center><u><B>Completed Projects</B></u></center></FO
 layout: single-portfolio
 excerpt: "
 <br/>
-<FONT Color='#c4302b'; Size='3.5px'><center><B>GKS-EDA method</B></center></FONT>
+<FONT Color='#800000'; Size='3.5px'><center><B>GKS-EDA method</B></center></FONT>
 <br/>
 <FONT Color='#432616'; Size='3.5px'><center><B>Thin Film Deposition</B></center></FONT>
 <br/>
