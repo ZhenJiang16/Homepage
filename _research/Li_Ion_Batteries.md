@@ -1,5 +1,5 @@
 ---
-title: "<FONT Size='5px'><center><u><B>Li-ion Batteries</B></u></center></FONT>"
+title: "<FONT Size='5px'><center><u><B>Li-ion Battery</B></u></center></FONT>"
 layout: single-portfolio
 excerpt: "<center><img src='../images/research/Li-ion-battery.png' style='width:200px;' alt=''></center>"
 collection: research
