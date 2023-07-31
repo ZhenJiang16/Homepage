@@ -3,7 +3,7 @@ title: "<FONT Size='5px'><center><u><B>Completed Projects</B></u></center></FONT
 layout: single-portfolio
 excerpt: "
 <br/>
-<FONT Size='4.5px'><center><B>Generalized Kohn-Sham Energy Decomposition Analysis</B></center></FONT>
+<FONT Color='purple'; Size='4.5px'><center><B>GKS-EDA method</B></center></FONT>
 <br/>
 <FONT Size='4.5px'><center><B>Thin Film Deposition</B></center></FONT>
 <br/>
