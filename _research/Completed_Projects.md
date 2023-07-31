@@ -5,9 +5,9 @@ excerpt: "
 <br/>
 <FONT Color='#c4302b'; Size='3.5px'><center><B>GKS-EDA method</B></center></FONT>
 <br/>
-<FONT Size='3.5px'><center><B>Thin Film Deposition</B></center></FONT>
+<FONT Color='#432616'; Size='3.5px'><center><B>Thin Film Deposition</B></center></FONT>
 <br/>
-<FONT Size='3.5px'><center><B>Ferroelectric Materials</B></center></FONT>
+<FONT Color='#432616'; Size='3.5px'><center><B>Ferroelectric Materials</B></center></FONT>
 <br/>
 <FONT Size='3.5px'><center><B>...</B></center></FONT>"
 collection: research
