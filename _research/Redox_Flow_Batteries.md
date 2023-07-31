@@ -1,7 +1,7 @@
 ---
 title: "<FONT Size='5px'><center><u><B>Redox-flow Battery</B></u></center></FONT>"
 layout: single-portfolio
-excerpt: "<center><img src='../images/research/Redox-flow-battery.png' style='width:200px;' alt=''></center>"
+excerpt: "<br/><center><img src='../images/research/Redox-flow-battery.png' style='width:200px;' alt=''></center>"
 collection: research
 order_number: 40
 author_profile: true
