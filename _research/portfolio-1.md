@@ -6,6 +6,7 @@ excerpt: "<center><img src='../images/research/Li-air-battery.png' style='width:
 <FONT Size='2.5px'><center><B>JACS 2022; Adv. Mater. 2020</B></center></FONT>"
 collection: research
 order_number: 10
+author_profile: true
 header: 
   og_image: "/research/Li-air-battery.png"
 ---
