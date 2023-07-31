@@ -17,7 +17,7 @@ The Lithium-air batteries are found to offer extremely high theoretical energy d
 **Publications**: 
 4. **Zhen Jiang**, and Andrew M. Rappe <span style="color: blue"><i><B>J. Am. Chem. Soc.</B></i></span> 144(48), 22150-22158 (2022). (Cover Art Invitation) <a href="https://pubs.acs.org/doi/abs/10.1021/jacs.2c09700"><u>[DOI]</u></a> 
 
-3  **Zhen Jiang**, and Andrew M. Rappe <span style="color: blue"><i><B>J. Phys. Chem. C</B></i></span> 126, 10266-10272 (2022). <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.2c02174"><u>[DOI]</u></a> 
+3. **Zhen Jiang**, and Andrew M. Rappe <span style="color: blue"><i><B>J. Phys. Chem. C</B></i></span> 126, 10266-10272 (2022). <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.2c02174"><u>[DOI]</u></a> 
 
 2. **Zhen Jiang**, and Andrew M. Rappe <span style="color: blue"><i><B>J. Phys. Chem. C</B></i></span> 125(40), 21873-21881 (2021). <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.1c07619"><u>[DOI]</u></a>
 
