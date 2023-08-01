@@ -16,7 +16,7 @@ author_profile: true
 header: 
   og_image: "/research/Li-air-battery.png"
 ---
-<u><B>Project: Generalized Kohn–Sham based Energy decomposition analysis (GKS-EDA) </B></u>
+<B>Project: Generalized Kohn–Sham based Energy decomposition analysis (GKS-EDA) </B>
 <br/>
 
 A new energy decomposition analysis scheme based on the generalized Kohn–Sham (GKS) and the localized molecular orbital energy decomposition analysis (LMO-EDA) scheme, named GKS-EDA, is proposed. The GKS-EDA scheme has a wide range of DFT functional adaptability. In the GKS-EDA scheme, the exchange, repulsion, and polarization terms are determined by DFT orbitals; the correlation term is defined as the difference of the GKS correlation energy from monomers to supermolecule. The scheme can perform analysis both in the gas and in the condensed phases with most of the popular DFT functionals, including LDA, GGA, meta-GGA, hybrid GGA/meta-GGA, double hybrid, range-separated (long-range correction), and dispersion correction. By the GKS-EDA scheme, the DFT functionals assessment for hydrogen bonding, vdW interaction, symmetric radical cation, charge-transfer, and metal–ligand interaction is performed.
@@ -34,7 +34,7 @@ A new energy decomposition analysis scheme based on the generalized Kohn–Sham 
 <div style="border-bottom: 1px solid #333;"></div>
 <br/>
 
-<u><B>Project: Thin Film Growth Techniques</B></u>
+<B>Project: Thin Film Growth Techniques</B>
 
 A new growth and stabilization approach named stromataxy is developed for both epitaxial and non-epitaxial growth of metastable P6<sub>3</sub>cm phase ScFeO<sub>3</sub> thin film on various substrates. It is a method based on controlling the structure during the initial stages of material growth to dictate phase formation. I performed ab initio simulations to show the mechanisms and thermodynamic performance for the layer-by-layer P6<sub>3</sub>cm phase ScFeO<sub>3</sub> growth on sapphire substrate. The stromataxy is promising as a viable option for accessing polymorphs that are close in energy, that are difficult to differentiate by strain, or that lack a well epitaxially matched substrate.
 
