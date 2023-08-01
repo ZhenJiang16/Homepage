@@ -60,6 +60,6 @@ We designed the heterostructures of Ni/HfO<sub>2</sub> to study the magnetoelect
 <div style="border-bottom: 1px solid #333;"></div>
 <br/>
 
-<B>Other Project: ... </B>
+<B>Other Projects: ... </B>
 
 
