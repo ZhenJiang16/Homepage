@@ -7,12 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-Email
+<center>Email</center>
 ======
-**Primary**: zjiang16@sas.upenn.edu 
-**Secondary Primary* zhen.jiang@huskers.unl.edu 
+**Primary**: zjiang16@sas.upenn.edu
+<br/> 
+**Secondary Primary** zhen.jiang@huskers.unl.edu 
 
-Mail Address
+<center>Mail Address</center>
 ======
 New adress in Evanston, IL (Northwestern Univeristy) will be added soon. 
 
