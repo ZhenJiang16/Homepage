@@ -12,7 +12,7 @@ header:
 
 The solid-state batteries are expected to be the next-generation energy storage technology, which can directly use charge carrier metal as the anode, providing much higher energy density than current lithium-ion batteries. Among different components of solid-state batteries, the conductive filler-based solid polymer electrolytes (SPEs) show great importance to achieve large-scale applications. However, the transport and conduction mechanisms of lithium-ion (Li+) in such SPEs remain unclear. Inadequate understading of complex interrelationships in multiple components, including polymer matrix, lithium salt, filler, and additive, limits device versatility and improvement. In addition, the design of a ploymer-based separator with excellent volume-responsive function is found effective to supppress the growth of lithium dendrites , thus increasing the charging and discharging densities.   
 
-**Keywords**: <FONT Color='purple'><u><B>Membrane (Separator)</B></u>; <u><B>Lithium Dendrites Suppression</B></u>; <u><B>Solid-state Electrolytes (LLZO, PEO, PDA, etc) </B></u>; <u><B>DFT-derived Li<sup>+</sup> Transport Mechanism </B></u>
+**Keywords**: <FONT Color='purple'><u><B>Membrane</B></u>; <u><B>Suppression of Lithium Dendrites</B></u>; <u><B>Solid-state Electrolytes (LLZO, etc) </B></u>; <u><B>Li<sup>+</sup> Transport Mechanism </B></u>
 
 **Publications**: 
 
