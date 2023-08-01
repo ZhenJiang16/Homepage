@@ -42,3 +42,24 @@ A new growth and stabilization approach named stromataxy is developed for both e
 
 **Publications**: 
 1. Lauren M Garten<sup>#</sup>, **Zhen Jiang<sup>#</sup>**, Hanjong Paik, John D Perkins, Arvin Kakekhani, Ruixiang Fei, Don J Werder, Megan E Holtz, David S Ginley, Andrew M. Rappe, Darrell G Schlom, Margo L Staruch <span style="color: blue"><i><B>Chem. Mater.</B></i></span> 33(18), 7423-7431 (2021) (**<sup>#</sup>: equal contribution**) <a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.1c02079"><u>[DOI]</u></a>
+
+<div style="border-bottom: 1px solid #333;"></div>
+<br/>
+
+<B>Project: Ferroelectic Materials</B>
+
+We designed the heterostructures of Ni/HfO<sub>2</sub> to study the magnetoelectric effect at the HfO<sub>2</sub>-based ferroelectric-ferromagnetic interface. In addition, we proposed new concept to design high-performance FTJs based on LaNiO<sub>3</sub>/PbTiO<sub>3</sub>/LaAlO<sub>3</sub>/LaNiO<sub>3</sub> ferroelectric tunnel junctions (FTJs). The proposed design suggests a new direction for creating FTJs with a stable and reversible ferroelectric polarization, a sizable tunneling electroresistance effect, and a low-resistance-area product, as required for memory applications. <br/> **Methods**: DFT, Density of States, polarization, electron density analysis.
+
+![]({{site.baseurl}}/images/research/sub/Ferroelectric Materials.png){: width="800px"}
+
+**Publications**:
+1. Qiong Yang, Lingling Tao, Yichun Zhou, Ming Li, **Zhen Jiang**, Evgeny Y. Tsymbal, and Vitaly Alexandrov <span style="color: blue"><i><B>Nano. Lett.</B></i></span> 19, 7385–7393 (2019) <a href="https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.9b03056"><u>[DOI]</u></a>
+
+2. Qiong Yang, Lingling Tao, **Zhen Jiang**, Yichun Zhou, Evgeny Y. Tsymbal, and Vitaly Alexandrov <span style="color: blue"><i><B>Phys. Rev. Applied</B></i></span> 12, 024044–024050 (2019) <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.12.024044"><u>[DOI]</u></a>
+
+<div style="border-bottom: 1px solid #333;"></div>
+<br/>
+
+<B>Other Project: ... </B>
+
+
