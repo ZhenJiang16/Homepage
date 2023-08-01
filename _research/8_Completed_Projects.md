@@ -16,6 +16,10 @@ author_profile: true
 header: 
   og_image: "/research/Li-air-battery.png"
 ---
+<FONT Color='purple'><u><B>Project: </B></u></Font>
+
+<div style="border-bottom: 1px solid #333;"></div>
+
 <FONT Color='purple'><u><B>Project: Thin Film Growth Techniques</B></u></Font>
 
 A new growth and stabilization approach named stromataxy is developed for both epitaxial and non-epitaxial growth of metastable P6<sub>3</sub>cm phase ScFeO<sub>3</sub> thin film on various substrates. It is a method based on controlling the structure during the initial stages of material growth to dictate phase formation. I performed ab initio simulations to show the mechanisms and thermodynamic performance for the layer-by-layer P6<sub>3</sub>cm phase ScFeO<sub>3</sub> growth on sapphire substrate. The stromataxy is promising as a viable option for accessing polymorphs that are close in energy, that are difficult to differentiate by strain, or that lack a well epitaxially matched substrate.
