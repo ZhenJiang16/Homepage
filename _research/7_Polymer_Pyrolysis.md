@@ -9,4 +9,13 @@ header:
   og_image: "/research/Polymer-pyrolysis.png"
 ---
 
-In this project, we focused on the atomic mechanisms and associated thermodynamic overpotential of discharging/charging reactions on Mo<sub>3</sub>P and Co<sub>3</sub>O<sub>4</sub> electrodes. Two different discharging pathways (solution and surface pathway) were investigated in high (DMSO) and low (CH<sub>3</sub>CN) donor number solvents. The meachanism and kientic behavior of interfacial redox reactions and discharge product transportation principles were studied in explicit aprotic solvent and most thermodynamically favourable electrode facets. <br/> **Methods**: Ab initio thermodynamics, DFT-derived overpotentials, ab initio molecular dynamics (Born Openheimer molecular dynamics), ab initio Grand Canonical Monte Calro, slow-growth simulation, blue-moon ensemble, Einstein diffusion equation, density of states, band structures, HOMO-LUMO. <br/> **Software package**: VASP, p4vasp, vaspkit, Travis, VESTA, VMD, Inkscape, Latex, imovie. <br/> **Publications**: *J. Phys. Chem. C* 125(40), 21873-21881 (**2021**); *Adv. Mater.* 2004028 (**2020**)
+![]({{site.baseurl}}/images/research/sub/Polymer-pyrolysis-sub.png){: width="800px"}
+
+Pyrolysis of plastics into fuel oil is a very effective technology that can help with environmental pollution and energy challenges. The experimental results on pyrolysis of high-density polyethene (HDPE) at 500 Celsius, suggest that the main products are light oils (C5-C10), including paraffins, mono-olefins, di-olefins, and aromatics. Improving product selectivity would rely on a deeper understanding of the pyrolysis reaction mechanism. In this work, we provided an atomic-scale understanding of HDPE pyrolysis yielding paraffins, olefins, and dienes by radical intermediates, which is in near quantitative agreement with our experimentally determined product distribution. Therefore, our proposed mechanisms can provide atomic-scale insights for the polymer pyrolysis mechanism and guide the further optimization of the product distribution of pyrolysis oil. 
+
+**Keywords**: <FONT Color='purple'><u><B>Polymer Pyrolysis</B></u>; <u><B>HDPE</B></u>; <u><B>(L)LLDPE; <u><B>PP</B></u>
+
+**Publications**: 
+1. Houqian Li, Jiayang Wu, Zhen Jiang, Jiaze Ma, Victor M. Zavala, Clark R. Landis, Manos Mavrikakis, George W. Huber <span style="color: blue"><i><B>Science</B></i></span> accepted.
+
+
