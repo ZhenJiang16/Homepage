@@ -19,6 +19,6 @@ author_profile: true
 
 <br/>
 
-![]({{site.baseurl}}/images/Chicago.jpeg){: width:100%}
+![]({{site.baseurl}}/images/Chicago.jpeg){: width="1200px"}
 
 
