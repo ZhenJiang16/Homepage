@@ -18,6 +18,6 @@ author_profile: true
 
 <br/>
 
-![]({{site.baseurl}}/images/Chicago.png){: width="600px"}
+![]({{site.baseurl}}/images/Chicago.jpeg){: width="800px"}
 
 
