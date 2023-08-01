@@ -8,9 +8,9 @@ author_profile: true
 header: 
   og_image: "/research/Fuel-cell.png"
 ---
-![]({{site.baseurl}}/images/research/sub/Fuel-cell-sub.png){: width="800px"}
-
 We mainly foucsed on the system design of higher efficiency H<sub>2</sub>O splitting reactions and electrochemical oxygen evolution/reduction reactions (OER/ORR) with lower thermodynamic overpotential. A comprehensive mechanistic and kinetic understanding of water dissociation performance in the innovative bipolar membrane (BPM) is reported by examining six different water splitting mechanisms on inner-layer graphene oxide (GO) catalysts. Meanwhile, ab initio thermodynamic study of OER/ORR are performed on different candidaites of solid-state surfaces, including single-atom catalysts on graphene, carbon nanotubes, and topological Bi materials.
+
+![]({{site.baseurl}}/images/research/sub/Fuel-cell-sub.png){: width="600px"}
 
 **Keywords**: <FONT Color='purple'><u><B>Water Splitting</B></u>; <u><B>OER/ORR</B></u>; <u><B>Catalysts</B></u>; <u><B>Electric Field</B></u>
 
