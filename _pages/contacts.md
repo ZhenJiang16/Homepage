@@ -1,22 +1,20 @@
 ---
 layout: archive
 title: "Contacts"
-permalink: /cv/
+permalink: /contacts/
 author_profile: true
 ---
 
 {% include base_path %}
 
-<center>**Email**</center>
+<center><b>Email</b></center>
 <br/>
 
-**Primary:** zjiang16@sas.upenn.edu
-<br/> 
-**Secondary Primary:** zhen.jiang@huskers.unl.edu 
+<center><u> zjiang16@sas.upenn.edu</u></center>
 
-<center>**Mail Address**</center>
+<center><b>Mail Address</b></center>
 
-New adress in Evanston, IL (Northwestern Univeristy) will be added soon. 
+<center>New adress in Evanston, IL (Northwestern Univeristy) will be added soon.</center> 
 
 <br/>
 
