@@ -11,7 +11,7 @@ header:
 
 In this project, we studied 1) the solution chemistry of four vanadium species in aqueous electrolyte and 2) interfacial chemsitry of redox reactions of aqueous vanadium species on the oxygen functionalized graphite surface. The above studies are mainly served for the investigation to improve the energy density and power density of such a redox flow battery. The structure, diffusion, stability and side self-discharging reaction of vanadium species are studied in the explicit aqueous solvent at room temperature. The mechanistic and kinetic informations of interfacial redox reactions between different oxidation states of vanadiums are obtained from enhanced free energy sampling towards the rare events by first-principles studies.
 
-![]({{site.baseurl}}/images/research/sub/Redox-flow-battery-sub.jpg){: width="800px"}
+![]({{site.baseurl}}/images/research/sub/Redox-flow-battery-sub.jpg){: width="700px"}
 
 **Keywords**: <FONT Color='purple'><u><B>All-vanadium Redox Flow Batteries</B></u>; <u><B>Mechanisms and Kinetics</B></u>; <u><B>Graphitic Oxide</B></u>; <u><B>Metadynamics Simulations</B></u>
 
