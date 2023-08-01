@@ -22,7 +22,7 @@ A new energy decomposition analysis scheme based on the generalized Kohn–Sham 
 <br/>
 **Installed Software Package**: Gamess. 
 <br/>
-![]({{site.baseurl}}/images/research/sub/Thin-film-growth-sub.png){: width="500px"}
+![]({{site.baseurl}}/images/research/sub/GKS-EDA-sub.jpeg){: width="500px"}
 
 **Publications**:
 1. Peifeng Su, **Zhen Jiang**, Zuochang Chen, and Wei Wu <span style="color: blue"><i><B>J. Phys. Chem. A </B></i></span> 118 (13), 2531–2542 (2014) <a href="https://pubs.acs.org/doi/abs/10.1021/jp500405s"><u>[DOI]</u></a>
