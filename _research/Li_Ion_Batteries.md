@@ -8,7 +8,7 @@ author_profile: true
 header: 
   og_image: "/research/Li-ion-battery.png"
 ---
-![]({{site.baseurl}}/images/research/sub/Li-ion-battery-sub.tiff){: width="800px"}
+![]({{site.baseurl}}/images/research/sub/Li-ion-battery-sub.png){: width="800px"}
 
 The Li-ion batteries are most well-known energy storages in today's society, which is most commonly found in portable electronic devices such as cellphones and laptops. The two technical bottlenecks restrickting their further promotion are the limited energy density and charging rate. Recently, we have successfully demonstrated the growth of high-quality, single-crystal layers of T-Nb2O5, aligned in a way that allows larger-capacity lithium ions to move significantly faster. Multiple previously unknown transitions in the material’s structure as the concentration of lithium ions changed are modeled, thus observing the electronic switch from insulator to metal. Such a dramatic shift; the resistivity of the material decreases by a factor of 100 billion.
     
