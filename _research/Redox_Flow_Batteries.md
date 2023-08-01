@@ -13,7 +13,7 @@ In this project, we studied 1) the solution chemistry of four vanadium species i
 
 ![]({{site.baseurl}}/images/research/sub/Redox-flow-battery-sub.jpg){: width="800px"}
 
-**Keywords**: <FONT Color='purple'><u><B>All-vanadium Redox Flow Batteries</B></u>; <u><B>Mechanisms and Kinetics</B></u>; <u><B>Graphitic Oxide</B></u>; <u><B>metadynamics Simulations</B></u>
+**Keywords**: <FONT Color='purple'><u><B>All-vanadium Redox Flow Batteries</B></u>; <u><B>Mechanisms and Kinetics</B></u>; <u><B>Graphitic Oxide</B></u>; <u><B>Metadynamics Simulations</B></u>
 
 **Publications**: 
 5. **Zhen Jiang**, and Vitaly Alexandrov <span style="color: blue"><i><B>ACS Appl. Energy Mater.</B></i></span> 3(8), 7543-7549 (2020) <a href="https://pubs.acs.org/doi/10.1021/acsaem.0c00972"><u>[DOI]</u></a>
