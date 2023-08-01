@@ -22,7 +22,7 @@ header:
 A new energy decomposition analysis scheme based on the generalized Kohn–Sham (GKS) and the localized molecular orbital energy decomposition analysis (LMO-EDA) scheme, named GKS-EDA, is proposed. The GKS-EDA scheme has a wide range of DFT functional adaptability. In the GKS-EDA scheme, the exchange, repulsion, and polarization terms are determined by DFT orbitals; the correlation term is defined as the difference of the GKS correlation energy from monomers to supermolecule. The scheme can perform analysis both in the gas and in the condensed phases with most of the popular DFT functionals, including LDA, GGA, meta-GGA, hybrid GGA/meta-GGA, double hybrid, range-separated (long-range correction), and dispersion correction. By the GKS-EDA scheme, the DFT functionals assessment for hydrogen bonding, vdW interaction, symmetric radical cation, charge-transfer, and metal–ligand interaction is performed.
 <br/>
 
-**Installed Software Package**: Gamess. 
+**Installed Software Package**: Gamess. <a href="http://eda.xmvb.org/tutorials.jsp"><u>(Tutorials)</u></a> 
 <br/>
 ![]({{site.baseurl}}/images/research/sub/GKS-EDA-sub.jpeg){: width="500px"}
 
