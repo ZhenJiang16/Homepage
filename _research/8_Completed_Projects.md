@@ -50,7 +50,7 @@ A new growth and stabilization approach named stromataxy is developed for both e
 
 We designed the heterostructures of Ni/HfO<sub>2</sub> to study the magnetoelectric effect at the HfO<sub>2</sub>-based ferroelectric-ferromagnetic interface. In addition, we proposed new concept to design high-performance FTJs based on LaNiO<sub>3</sub>/PbTiO<sub>3</sub>/LaAlO<sub>3</sub>/LaNiO<sub>3</sub> ferroelectric tunnel junctions (FTJs). The proposed design suggests a new direction for creating FTJs with a stable and reversible ferroelectric polarization, a sizable tunneling electroresistance effect, and a low-resistance-area product, as required for memory applications.
 
-![]({{site.baseurl}}/images/research/sub/Ferroelectric_materials_sub.png){: width="800px"}
+![]({{site.baseurl}}/images/research/sub/Ferroelectric-materials-sub.png){: width="800px"}
 
 **Publications**:
 1. Qiong Yang, Lingling Tao, Yichun Zhou, Ming Li, **Zhen Jiang**, Evgeny Y. Tsymbal, and Vitaly Alexandrov <span style="color: blue"><i><B>Nano. Lett.</B></i></span> 19, 7385–7393 (2019) <a href="https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.9b03056"><u>[DOI]</u></a>
