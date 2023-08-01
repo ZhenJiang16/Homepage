@@ -8,5 +8,14 @@ author_profile: true
 header: 
   og_image: "/research/Solid-state-battery.png"
 ---
+![]({{site.baseurl}}/images/research/sub/Solid-state-battery-sub.png){: width="800px"}
 
-In this project, we focused on the atomic mechanisms and associated thermodynamic overpotential of discharging/charging reactions on Mo<sub>3</sub>P and Co<sub>3</sub>O<sub>4</sub> electrodes. Two different discharging pathways (solution and surface pathway) were investigated in high (DMSO) and low (CH<sub>3</sub>CN) donor number solvents. The meachanism and kientic behavior of interfacial redox reactions and discharge product transportation principles were studied in explicit aprotic solvent and most thermodynamically favourable electrode facets. <br/> **Methods**: Ab initio thermodynamics, DFT-derived overpotentials, ab initio molecular dynamics (Born Openheimer molecular dynamics), ab initio Grand Canonical Monte Calro, slow-growth simulation, blue-moon ensemble, Einstein diffusion equation, density of states, band structures, HOMO-LUMO. <br/> **Software package**: VASP, p4vasp, vaspkit, Travis, VESTA, VMD, Inkscape, Latex, imovie. <br/> **Publications**: *J. Phys. Chem. C* 125(40), 21873-21881 (**2021**); *Adv. Mater.* 2004028 (**2020**)
+The solid-state batteries are expected to be the next-generation energy storage technology, which can directly use charge carrier metal as the anode, providing much higher energy density than current lithium-ion batteries. Among different components of solid-state batteries, the conductive filler-based solid polymer electrolytes (SPEs) show great importance to achieve large-scale applications. However, the transport and conduction mechanisms of lithium-ion (Li+) in such SPEs remain unclear. Inadequate understading of complex interrelationships in multiple components, including polymer matrix, lithium salt, filler, and additive, limits device versatility and improvement. In addition, the design of a ploymer-based separator with excellent volume-responsive function is found effective to supppress the growth of lithium dendrites , thus increasing the charging and discharging densities.   
+
+**Keywords**: <FONT Color='purple'><u><B>Membrane (Separator)</B></u>; <u><B>Lithium Dendrites Suppression</B></u>; <u><B>Solid-state Electrolytes (LLZO, PEO, PDA, etc) </B></u>; <u><B>DFT-derived Li<sup>+</sup> Transport Mechanism </B></u>
+
+**Publications**: 
+
+2. Chuan Shi, Jianjun Song, Yang Zhang, Xiuting Wang, **Zhen Jiang<sup>*</sup>**, Tong Sun<sup>*</sup>, and Jinbao Zhao <span style="color: blue"><i><B>Cell Rep. Phys. Sci.</B></i></span> 4, 101321 (2023) (**<sup>*</sup>: corresponding authors**) <a href="https://www.sciencedirect.com/science/article/pii/S2666386423000863"><u>[DOI]</u></a> 
+
+1. Chuan Shi, Lei Zhang, Xiu Ting, Tong Sun<sup>*</sup>, **Zhen Jiang<sup>*</sup>**, and Jinbao Zhao<sup>*</sup> <span style="color: blue"><i><B>ACS. Appl. Mater. Interface</B></i></span> 14, 51931-51940 (2022) (**<sup>*</sup>: corresponding authors**) <a href="https://pubs.acs.org/doi/full/10.1021/acsami.2c15101"><u>[DOI]</u></a>
