@@ -15,13 +15,12 @@ In this project, we studied 1) the solution chemistry of four vanadium species i
 **Keywords**: <FONT Color='purple'><u><B>All-vanadium Redox Flow Batteries</B></u>; <u><B>Mechanisms and Kinetics</B></u>; <u><B>Graphitic Oxide</B></u>; <u><B>metadynamics Simulations</B></u>
 
 **Publications**: 
-4. **Zhen Jiang**, and Andrew M. Rappe <span style="color: blue"><i><B>J. Am. Chem. Soc.</B></i></span> 144(48), 22150-22158 (2022). (Cover Art Invitation) <a href="https://pubs.acs.org/doi/abs/10.1021/jacs.2c09700"><u>[DOI]</u></a> 
+5. **Zhen Jiang**, and Vitaly Alexandrov <span style="color: blue"><i><B>ACS Appl. Energy Mater.</B></i></span> 3(8), 7543-7549 (2020) <a href="https://pubs.acs.org/doi/10.1021/acsaem.0c00972"><u>[DOI]</u></a>
 
-3. **Zhen Jiang**, and Andrew M. Rappe <span style="color: blue"><i><B>J. Phys. Chem. C</B></i></span> 126(25), 10266-10272 (2022). <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.2c02174"><u>[DOI]</u></a> 
+4. **Zhen Jiang**, Konstantin Klyukin, and Vitaly Alexandrov <span style="color: blue"><i><B>J. Phys. Chem. B</B></i></span> 123, 3976–3983 (2019) <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.8b10980"><u>[DOI]</u></a>
 
-2. **Zhen Jiang**, and Andrew M. Rappe <span style="color: blue"><i><B>J. Phys. Chem. C</B></i></span> 125(40), 21873-21881 (2021). <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.1c07619"><u>[DOI]</u></a>
+3. **Zhen Jiang**, Konstantin Klyukin, and Vitaly Alexandrov <span style="color: blue"><i><B>ACS Appl. Mater. Interfaces</B></i></span> 10(24), 20621-20626 (2018) <a href="https://pubs.acs.org/doi/abs/10.1021/acsami.8b05864"><u>[DOI]</u></a> 
 
-1. Alireza Kondori, **Zhen Jiang**, Mohammadreza Esmaeilirad, Arvin Kakekhani, Kamil Kucuk, Pablo Navarro Munoz Delgado, Sadaf Maghsoudipour, John Hayes, Christopher S Johnson, Carlo U Segre, Reza Shahbazian-Yassar, Andrew M. Rappe, and Mohammad Asadi <span style="color: blue"><i><B>Adv. Mater.</B></i></span> 2004028 (2020) <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202004028"><u>[DOI]</u></a>
+2. **Zhen Jiang**, Konstantin Klyukin, and Vitaly Alexandrov <span style="color: blue"><i><B>Phys. Chem. Chem. Phys.</B></i></span> 19, 14897-14901 (2017) <a href="https://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp02350b/unauth"><u>[DOI]</u></a> 
 
-
-
+1. **Zhen Jiang**, Konstantin Klyukin, and Vitaly Alexandrov <span style="color: blue"><i><B>J. Chem. Phys.</B></i></span> 145, 114303-114311 (2016) <a href="https://aip.scitation.org/doi/abs/10.1063/1.4962748"><u>[DOI]</u></a>
