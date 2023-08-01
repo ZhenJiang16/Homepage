@@ -12,7 +12,7 @@ header:
 
 The Li-ion batteries are most well-known energy storages in today's society, which is most commonly found in portable electronic devices such as cellphones and laptops. The two technical bottlenecks restrickting their further promotion are the limited energy density and charging rate. Recently, we have successfully demonstrated the growth of high-quality, single-crystal layers of T-Nb2O5, aligned in a way that allows larger-capacity lithium ions to move significantly faster. Multiple previously unknown transitions in the material’s structure as the concentration of lithium ions changed are modeled, thus observing the electronic switch from insulator to metal. Such a dramatic shift; the resistivity of the material decreases by a factor of 100 billion.
     
-**Keywords**: <FONT Color='purple'><u><B>Fast-charging</B></u>; <u><B>Electronic and Phase Transition</B></u>; <u><B>Lithiation Process simulation</B></u>
+**Keywords**: <FONT Color='purple'><u><B>Fast-charging Electrodes</B></u>; <u><B>Electronic and Phase Transitions</B></u>; <u><B>Lithiation Process simulations</B></u>
 
 **Publications**: 
 1. Hyeon Han<sup>#</sup>, Quentin Jacquet<sup>#</sup>, **Zhen Jiang<sup>#</sup>**, Farheen N. Sayed, Jae-Chun Jeon, Arpit Sharma, Aaron M. Schankler, Arvin Kakekhani, Holger L. Meyerheim, Jucheol Park, Sang Yeol Nam, Kent J. Griffith, Laura Simonelli, Andrew M. Rappe, Clare P. Grey & Stuart S. P. Parkin <span style="color: blue"><i><B>Nat. Mater.</B></i></span> (2023) (**<sup>#</sup>: equal contribution**) <a href="https://www.nature.com/articles/s41563-023-01612-2"><u>[DOI]</u></a> 
