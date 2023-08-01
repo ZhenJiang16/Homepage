@@ -8,5 +8,15 @@ author_profile: true
 header: 
   og_image: "/research/Fuel-cell.png"
 ---
+![]({{site.baseurl}}/images/research/sub/Fuel-cell-sub.png){: width="800px"}
 
-This project, we focused on the atomic mechanisms and associated thermodynamic overpotential of discharging/charging reactions on Mo<sub>3</sub>P and Co<sub>3</sub>O<sub>4</sub> electrodes. Two different discharging pathways (solution and surface pathway) were investigated in high (DMSO) and low (CH<sub>3</sub>CN) donor number solvents. The meachanism and kientic behavior of interfacial redox reactions and discharge product transportation principles were studied in explicit aprotic solvent and most thermodynamically favourable electrode facets. <br/> **Methods**: Ab initio thermodynamics, DFT-derived overpotentials, ab initio molecular dynamics (Born Openheimer molecular dynamics), ab initio Grand Canonical Monte Calro, slow-growth simulation, blue-moon ensemble, Einstein diffusion equation, density of states, band structures, HOMO-LUMO. <br/> **Software package**: VASP, p4vasp, vaspkit, Travis, VESTA, VMD, Inkscape, Latex, imovie. <br/> **Publications**: *J. Phys. Chem. C* 125(40), 21873-21881 (**2021**); *Adv. Mater.* 2004028 (**2020**)
+We mainly foucsed on the system design of higher efficiency H<sub>2</sub>O splitting reactions and electrochemical oxygen evolution/reduction reactions (OER/ORR) with lower thermodynamic overpotential. A comprehensive mechanistic and kinetic understanding of water dissociation performance in the innovative bipolar membrane (BPM) is reported by examining six different water splitting mechanisms on inner-layer graphene oxide (GO) catalysts. Meanwhile, ab initio thermodynamic study of OER/ORR are performed on different candidaites of solid-state surfaces, including single-atom catalysts on graphene, carbon nanotubes, and topological Bi materials.
+
+**Keywords**: <FONT Color='purple'><u><B>Water Splitting</B></u>; <u><B>OER/ORR</B></u>; <u><B>Catalysts</B></u>; <u><B>Electric Field</B></u>
+
+**Publications**: 
+3. **Zhen Jiang**, Peter P. Bazianos, Zhifei Yan, and Andrew M. Rappe  <span style="color: blue"><i><B> ACS Catal.</B></i></span> 13(10), 7079-7086 (2023) <a href="https://pubs.acs.org/doi/abs/10.1021/acscatal.3c00891"><u>[DOI]</u></a> 
+
+2. **Zhen Jiang<sup>*</sup>**, Nadia N. Intan, and Qiong Yang <span style="color: blue"><i><B>RSC Adv.</B></i></span> 12, 33552-33558 (2022) (**<sup>*</sup>: corresponding authors**) <a href="https://pubs.rsc.org/en/content/articlehtml/2022/ra/d2ra06123f"><u>[DOI]</u></a>
+
+1. **Zhen Jiang**, and Vitaly Alexandrov <span style="color: blue"><i><B>J. Phys. Chem. C</B></i></span> 123, 30335-30340 (2019) <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.9b07860"><u>[DOI]</u></a>
