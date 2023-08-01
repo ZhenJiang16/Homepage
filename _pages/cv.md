@@ -17,3 +17,8 @@ author_profile: true
 ======
 New adress in Evanston, IL (Northwestern Univeristy) will be added soon. 
 
+<br/>
+
+![]({{site.baseurl}}/images/Chicago.png){: width="800px"}
+
+
