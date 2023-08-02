@@ -15,7 +15,7 @@ author_profile: true
 
 <center><b>Mail Address</b></center>
 
-<center>New adress in Evanston, IL (Northwestern Univeristy) will be added soon.</center> 
+<center>New address in Evanston, IL (Northwestern Univeristy) will be added soon.</center> 
 
 <br/>
 
