@@ -9,13 +9,19 @@ author_profile: true
 
 <center><b>Email</b></center>
 
-<center><u> zjiang16@sas.upenn.edu</u></center>
+<center><u> zhen.jiang@northwestern.edu</u></center>
+
+<br/>
+<center><b>Current Affiliation</b></center>
+
+<center> Department of Materials Science and Engineering, Northwestern University, USA, 60208</center>
+<center><u> <a href="https://sites.google.com/site/wolvertonresearchgroup/welcome?authuser=0"> Prof. Chris Wolverton's group </a> </u></center>
 
 <br/>
 
 <center><b>Mail Address</b></center>
 
-<center>New address in Evanston, IL (Northwestern Univeristy) will be added soon.</center> 
+<center>Rm M489, 2145 Sheridan Rd, Evanston, IL 60208
 
 <br/>
 
