@@ -15,13 +15,13 @@ author_profile: true
 <center><b>Current Affiliation</b></center>
 
 <center> Department of Materials Science and Engineering, Northwestern University, USA, 60208</center>
-<center><u> <a href="https://sites.google.com/site/wolvertonresearchgroup/welcome?authuser=0"> Prof. Chris Wolverton's group </a> </u></center>
+<center><u> Prof. Chris Wolverton's group <a href="https://sites.google.com/site/wolvertonresearchgroup/welcome?authuser=0"> [link]</a> </u></center>
 
 <br/>
 
 <center><b>Mail Address</b></center>
 
-<center>Rm M489, 2145 Sheridan Rd, Evanston, IL 60208
+<center>Rm M489, 2145 Sheridan Rd, Evanston, IL, USA, 60208</center>
 
 <br/>
 
