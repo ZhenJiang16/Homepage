@@ -15,7 +15,7 @@ author_profile: true
 <center><b>Current Affiliation</b></center>
 
 <center> Department of Materials Science and Engineering, Northwestern University, USA, 60208</center>
-<center><u> Prof. Chris Wolverton's group <a href="https://sites.google.com/site/wolvertonresearchgroup/welcome?authuser=0"> [link]</a> </u></center>
+<center> Prof. Chris Wolverton's group <a href="https://sites.google.com/site/wolvertonresearchgroup/welcome?authuser=0"> [website]</a></center>
 
 <br/>
 
