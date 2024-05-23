@@ -18,7 +18,7 @@ redirect_from:
 <br/>2011.09-2014.06    M.S. Xiamen University 
 <br/>2007.09-2011.06    B.S. Nanjing University of Chinese Medicine
 
-![]({{site.baseurl}}/images/website_homepage.png){: height="280px" width="800px" style="display:block"}
+![]({{site.baseurl}}/images/website_homepage_2024.png){: height="280px" width="800px" style="display:block"}
 <style>
 table border-collapse="collapse" border="-10"
 table th:first-of-type {
