@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span style='color: $twitter-color;'>**Professional Experience**</span>
-<br/>2023.08-Present    Postdoc Northwestern Univeristy
+<br/>2023.08-Present    Postdoc Northwestern University
 <br/>2022.08-2023.07    Postdoc University of Wisconsin-Madison
 <br/>2019.08-2022.07    Postdoc University of Pennsylvania
 
