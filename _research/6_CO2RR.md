@@ -15,6 +15,6 @@ The issue of carbon neutral has been increasing more and more attentions for a g
 **Keywords**: <FONT Color='purple'><u><B>CO<sub>2</sub>RR</B></u>; <u><B>Ionic Liquid</B></u>; <u><B>Hybrid-phase Catalysts</B></u>; <u><B>Computational Electrochemistry</B></u>
 
 **Publications**: 
-1. Mohammadreza Esmaeilirad<sup>#</sup>, **Zhen Jiang<sup>#</sup>**, Ahmad M. Harzandi, Alireza Kondori, Mahmoud Tamadoni Saray, Carlo U. Segre, Reza Shahbazian-Yassar, Andrew M. Rappe, Mohammad Asadi <span style="color: blue"><i><B> Nat. Energy</B></i></span> accepted (2023) (**<sup>#</sup>: equal contribution**) 
+1. Mohammadreza Esmaeilirad<sup>#</sup>, **Zhen Jiang<sup>#</sup>**, Ahmad M. Harzandi, Alireza Kondori, Mahmoud Tamadoni Saray, Carlo U. Segre, Reza Shahbazian-Yassar, Andrew M. Rappe, Mohammad Asadi <span style="color: blue"><i><B> Nat. Energy</B></i></span> 8, 891-900 (2023) (**<sup>#</sup>: equal contribution**) 
 
 

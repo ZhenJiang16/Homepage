@@ -16,6 +16,6 @@ Pyrolysis of plastics into fuel oil is a very effective technology that can help
 **Keywords**: <FONT Color='purple'><u><B>Polymer Pyrolysis</B></u>; <u><B>HDPE</B></u>; <u><B>(L)LLDPE</B></u>; <u><B>PP</B></u>
 
 **Publications**: 
-1. Houqian Li, Jiayang Wu, **Zhen Jiang**, Jiaze Ma, Victor M. Zavala, Clark R. Landis, Manos Mavrikakis, George W. Huber <span style="color: blue"><i><B>Science</B></i></span> accepted. (2023)
+1. Houqian Li, Jiayang Wu, **Zhen Jiang**, Jiaze Ma, Victor M. Zavala, Clark R. Landis, Manos Mavrikakis, George W. Huber <span style="color: blue"><i><B>Science</B></i></span> 381, 660-666 (2023)
 
 
