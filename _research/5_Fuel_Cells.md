@@ -1,5 +1,5 @@
 ---
-title: "<FONT Size='4.9px'><center><u><B>Materials Chemistry</B></u></center></FONT>"
+title: "<FONT Size='4.9px'><center><u><B>Fuel Cells</B></u></center></FONT>"
 layout: single-portfolio
 excerpt: "<center><img src='../images/research/Fuel-cell.png' style='width:200px;' alt=''></center>"
 collection: research
