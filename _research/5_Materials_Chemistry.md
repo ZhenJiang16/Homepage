@@ -15,8 +15,6 @@ We mainly foucsed on the system design for higher efficiency of H<sub>2</sub>O s
 **Keywords**: <FONT Color='purple'><u><B>Water Splitting</B></u>; <u><B>OER/ORR</B></u>; <u><B>Catalysts</B></u>; <u><B>Electric Field</B></u>
 
 **Publications**: 
-4. Tan Zhang<sup>#</sup>, **Zhen Jiang<sup>#</sup>**, and Andrew M. Rappe <span style="color: blue"><i><B>J. Am. Chem. Soc.</B></i></span> 146, 15488-15495, (2024) (**<sup>#</sup>: equal contribution**) <a href="https://pubs.acs.org/doi/full/10.1021/jacs.4c03973"><u>[DOI]</u></a>
-
 3. **Zhen Jiang**, Peter P. Bazianos, Zhifei Yan, and Andrew M. Rappe  <span style="color: blue"><i><B> ACS Catal.</B></i></span> 13(10), 7079-7086 (2023) <a href="https://pubs.acs.org/doi/abs/10.1021/acscatal.3c00891"><u>[DOI]</u></a> 
 
 2. **Zhen Jiang<sup>*</sup>**, Nadia N. Intan, and Qiong Yang <span style="color: blue"><i><B>RSC Adv.</B></i></span> 12, 33552-33558 (2022) (**<sup>*</sup>: corresponding authors**) <a href="https://pubs.rsc.org/en/content/articlehtml/2022/ra/d2ra06123f"><u>[DOI]</u></a>
