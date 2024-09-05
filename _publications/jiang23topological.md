@@ -1,5 +1,5 @@
 ---
-title: "**25.** Topological Bismuth (1-10) Facet for Efficient Oxygen Reduction Cathode in Fuel Cells"
+title: "**24.** Topological Bismuth (1-10) Facet for Efficient Oxygen Reduction Cathode in Fuel Cells"
 category: 'journal'
 collection: publications
 excerpt: "**Zhen Jiang<sup>#</sup>**, Tan Zhang<sup>#</sup>, and Andrew M. Rappe (**<sup>#</sup>: equal contribution**)"
