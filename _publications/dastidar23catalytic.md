@@ -1,5 +1,5 @@
 ---
-title: "**29.** Catalytic Production of &-Valerolactone (DVL) from Biobased 2-Hydroxytetrahydropyran (HTHP)–Combined Experimental and Modeling Study"
+title: "**29.** Catalytic Production of #916-Valerolactone (DVL) from Biobased 2-Hydroxytetrahydropyran (HTHP)–Combined Experimental and Modeling Study"
 category: 'journal'
 collection: publications
 permalink: /publication/dastidar24catalytic
