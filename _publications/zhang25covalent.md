@@ -1,5 +1,5 @@
 ---
-title: "**33.** Covalent organic frameworks (COFs) as fast lithium-ion transport fillers for solid polymer electrolytes"
+title: "**31.** Covalent organic frameworks (COFs) as fast lithium-ion transport fillers for solid polymer electrolytes"
 category: 'journal'
 collection: publications
 excerpt: "Chaoyan Zhang<sup>#</sup>, **Zhen Jiang**<sup>#</sup>, Peng Guo, Jianjun Song, and Chuan Shi (**<sup>#</sup>: co-1st authors**)"

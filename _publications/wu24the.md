@@ -1,5 +1,5 @@
 ---
-title: "**31.** The effects of polyolefin structure and source on pyrolysis-derived plastic oil composition"
+title: "**30.** The effects of polyolefin structure and source on pyrolysis-derived plastic oil composition"
 category: 'journal'
 collection: publications
 permalink: /publication/wu24the

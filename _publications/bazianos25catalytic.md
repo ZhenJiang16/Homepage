@@ -1,5 +1,5 @@
 ---
-title: "**34.** Catalytic Promotion of Transition-Metal-Doped Graphene Cathodes in Li-CO2 Batteries"
+title: "**33.** Catalytic Promotion of Transition-Metal-Doped Graphene Cathodes in Li-CO2 Batteries"
 category: 'journal'
 collection: publications
 excerpt: "Peter P. Bazianos, **Zhen Jiang**, and Andrew M. Rappe"
