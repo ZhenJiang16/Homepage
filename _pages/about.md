@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+<div style="font-size: 0.9em; width: 55%; line-height: 1.5; text-align: justify;">
+
 I am an Assistant Professor in the Department of Chemistry at Middle Tennessee State University, affiliated with the Department of Computational and Data Science. My research integrates quantum-mechanical modeling, density-functional theory (DFT), and machine learning to design advanced chemicals and materials for energy storage, catalysis, and sustainability. 
 
 Before joining MTSU, I was a postdoctoral researcher at Northwestern Uni. with Prof. Chris Wolverton (2023-2025), at UW-Madison with Prof. Manos Mavrikakis (2022-2023), and at the UPenn with Prof. Andrew Rappe (2019-2022). I earned my Ph.D. in Chemical and Biomolecular Engineering from the University of Nebraska–Lincoln with Prof. Vitaly Alexandrov in the summer of 2019, and my M.S. and B.S. degrees from Xiamen University and Nanjing University of Chinese Medicine, respectively.
+
+</div>
 
 <span style='color: $twitter-color;'>**Representative Publications**</span>
 
