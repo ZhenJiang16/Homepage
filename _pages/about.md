@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="font-size: 0.9em; width: 55%; line-height: 1.5; text-align: justify;">
+<div style="font-size: 0.9em; line-height: 1.5; text-align: justify;">
 
 I am an Assistant Professor in the Department of Chemistry at Middle Tennessee State University, affiliated with the Department of Computational and Data Science. My research integrates quantum-mechanical modeling, density-functional theory (DFT), and machine learning to design advanced chemicals and materials for energy storage, catalysis, and sustainability. 
 
