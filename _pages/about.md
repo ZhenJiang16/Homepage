@@ -10,17 +10,9 @@ redirect_from:
 
 I am an Assistant Professor in the Department of Chemistry at Middle Tennessee State University, affiliated with the Department of Computational and Data Science. My research integrates quantum-mechanical modeling, density-functional theory (DFT), and machine learning to design advanced chemicals and materials for energy storage, catalysis, and sustainability. 
 
-Before joining MTSU, I was a postdoctoral researcher at Northwestern University with Prof. Chris Wolverton (2023-2025), at University of Wisconsin-Madison with Prof. Manos Mavrikakis (2022-2023), and at the University of Pennsylvania with Prof. Andrew Rappe (2019-2022). I earned my Ph.D. in Chemical and Biomolecular Engineering from the University of Nebraska–Lincoln with Prof. Vitaly Alexandrov in the summer of 2019, and my M.S. and B.S. degrees from Xiamen University and Nanjing University of Chinese Medicine, respectively.
+Before joining MTSU, I was a postdoctoral researcher at Northwestern Uni. with Prof. Chris Wolverton (2023-2025), at UW-Madison with Prof. Manos Mavrikakis (2022-2023), and at the UPenn with Prof. Andrew Rappe (2019-2022). I earned my Ph.D. in Chemical and Biomolecular Engineering from the University of Nebraska–Lincoln with Prof. Vitaly Alexandrov in the summer of 2019, and my M.S. and B.S. degrees from Xiamen University and Nanjing University of Chinese Medicine, respectively.
 
-<span style='color: $twitter-color;'>**Professional Experience**</span>
-<br/>2023.08-Present    Postdoc Northwestern University
-<br/>2022.08-2023.07    Postdoc University of Wisconsin-Madison
-<br/>2019.08-2022.07    Postdoc University of Pennsylvania
-
-<span style='color: $twitter-color;'>**Educational Background**</span>
-<br/>2016.01-2019.08    PhD. University of Nebraska-Lincoln
-<br/>2011.09-2014.06    M.S. Xiamen University 
-<br/>2007.09-2011.06    B.S. Nanjing University of Chinese Medicine
+<span style='color: $twitter-color;'>**Representative Publications**</span>
 
 ![]({{site.baseurl}}/images/website_homepage_2024.png){: height="250px" width="800px" style="display:block"}
 <style>
