@@ -16,7 +16,6 @@ redirect_from:
   </strong>
 </div>
 
-<div class="full-bleed-rule"></div>
 <span style='color: $twitter-color;'>**Academia Experience**</span>
 <div style="font-size:0.9em;">
 <br/>2023-2025 Postdoc in MSE at Northwestern University with Prof. Christopher M. Wolverton
@@ -28,6 +27,7 @@ redirect_from:
 </div>
 
 <span style='color: $twitter-color;'>**Selected Publications**</span>
+
 ![]({{site.baseurl}}/images/website_homepage_2024.png){: height="250px" width="800px" style="display:block"}
 <style>
 table border-collapse="collapse" border="-10"
