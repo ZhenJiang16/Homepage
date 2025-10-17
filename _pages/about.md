@@ -18,7 +18,7 @@ redirect_from:
 
 <div class="full-bleed-rule"></div>
 <span style='color: $twitter-color;'>**Academia Experience**</span>
-<div style="font-size:0.9em; line-height:1.45;">
+<div style="font-size:0.9em;">
 <br/>2023-2025 Postdoc in MSE at Northwestern University with Prof. Christopher M. Wolverton
 <br/>2022-2023 Postdoc in ChemE at University of Wisconsin-Madison with Prof. Manos Mavrikakis
 <br/>2019-2022 Postdoc in Chem at University of Pennsylvania with Prof. Andrew M. Rappe
