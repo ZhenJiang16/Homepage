@@ -9,7 +9,7 @@ redirect_from:
 ---
 <div style="text-align:center; margin:0 auto 1rem; line-height:1.25; font-size:1.05em;">
   <strong>
-    Assistant Professor<br/>
+    <span style="color:#1DA1F2">Assistant Professor</span><br/>
     Department of Chemistry<br/>
     Department of Computational and Data Science<br/>
     Middle Tennessee State University
@@ -32,6 +32,7 @@ redirect_from:
 </div>
 
 <span style='color:#1DA1F2;'>**Selected Publications**</span>
+
 ![]({{site.baseurl}}/images/website_homepage_2024.png){: height="250px" width="800px" style="display:block"}
 <style>
 table border-collapse="collapse" border="-10"
