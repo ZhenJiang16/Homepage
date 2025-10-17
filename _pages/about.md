@@ -32,16 +32,16 @@ redirect_from:
 </div>
 
 <!-- Selected Publications: use a block element with bottom margin -->
-<div style="color:#1DA1F2; font-weight:700; line-height:1; margin:1rem 0 0.4rem;">
+<div style="color:#1DA1F2; font-weight:700; line-height:1; margin:1rem 0 0; padding-bottom:0.9rem;">
   Selected Publications
 </div>
 
-<!-- Image with its own bottom margin -->
-<p style="margin:0 0 2rem;">
+<p style="margin:0;">
   <img src="{{site.baseurl}}/images/website_homepage_2024.png"
        alt="highlights"
        style="max-width:800px;width:100%;height:auto;display:block;margin:0 auto;">
 </p>
+
 <style>
 table border-collapse="collapse" border="-10"
 table th:first-of-type {
