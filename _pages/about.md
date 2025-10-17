@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**Assistant Professor in the Department of Chemistry at Middle Tennessee State University, affiliated with the Department of Computational and Data Science** 
+
 
 <div class="full-bleed-rule"></div>
 <span style='color: $twitter-color;'>**Academia Experience**</span>
