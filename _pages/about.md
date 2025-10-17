@@ -10,9 +10,9 @@ redirect_from:
 
 <div class="full-bleed-rule"></div>
 <span style='color: $twitter-color;'>**Postdoc Experience**</span>
-<br/>2023.08-2025.08    <em><span style="color:#7e22ce">MSE</span></em> at <span style="color: #1DA1F2;">Northwestern University</span> with Prof. Christopher M. Wolverton
-<br/>2022.08-2023.07    <em>ChemE</em> at <span style="color: #1DA1F2;">University of Wisconsin-Madison</span> with Prof. Manos Mavrikakis
-<br/>2019.08-2022.07    <em>Chem</em> at <span style="color: #1DA1F2;">University of Pennsylvania</span> with Prof. Andrew M Rappe
+<br/>2023-2025    <em><span style="color:#7e22ce">MSE</span></em> at <span style="color: #1DA1F2;">Northwestern University</span> with Prof. Christopher M. Wolverton
+<br/>2022-2023    <em>ChemE</em> at <span style="color: #1DA1F2;">University of Wisconsin-Madison</span> with Prof. Manos Mavrikakis
+<br/>2019-2022    <em>Chem</em> at <span style="color: #1DA1F2;">University of Pennsylvania</span> with Prof. Andrew M Rappe
 
 <div class="full-bleed-rule"></div>
 <span style='color: $twitter-color;'>**Educational Background**</span>
