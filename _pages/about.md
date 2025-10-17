@@ -31,8 +31,8 @@ redirect_from:
 2007-2011  BS in Pharm. & Chem. at Nanjing University of Chinese Medicine
 </div>
 
-<span style='color:#1DA1F2;'>**Selected Publications**</span>
 
+<span style='color:#1DA1F2;'>**Selected Publications**</span>
 ![]({{site.baseurl}}/images/website_homepage_2024.png){: height="250px" width="800px" style="display:block"}
 <style>
 table border-collapse="collapse" border="-10"
