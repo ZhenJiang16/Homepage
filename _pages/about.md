@@ -10,7 +10,7 @@ redirect_from:
 
 <div class="full-bleed-rule"></div>
 <span style='color: $twitter-color;'>**Postdoc Experience**</span>
-<br/>2023.08-2025.08    MSE at Northwestern University with Prof. Christopher M. Wolverton
+<br/>2023.08-2025.08    MSE at <span style="color: skyblue;">Northwestern University</span> with Prof. Christopher M. Wolverton
 <br/>2022.08-2023.07    ChemE at University of Wisconsin-Madison with Prof. Manos Mavrikakis
 <br/>2019.08-2022.07    Chem at University of Pennsylvania with Prof. Andrew M Rappe
 
