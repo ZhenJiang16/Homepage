@@ -37,7 +37,7 @@ redirect_from:
 </div>
 
 <!-- Image with its own bottom margin -->
-<p style="margin:0 0 1rem;">
+<p style="margin:0 0 2rem;">
   <img src="{{site.baseurl}}/images/website_homepage_2024.png"
        alt="highlights"
        style="max-width:800px;width:100%;height:auto;display:block;margin:0 auto;">
