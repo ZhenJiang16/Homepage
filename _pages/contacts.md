@@ -25,6 +25,6 @@ author_profile: true
 
 <br/>
 
-![]({{site.baseurl}}/images/Chicago.jpeg){: width="2000px"}
+![]({{site.baseurl}}/images/TN.jpg){: width="2000px"}
 
 
