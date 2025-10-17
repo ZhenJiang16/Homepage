@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-**Assistant Professor of Chemistry, Middle Tennessee State University** (affiliated with Computational & Data Science)
+**Assistant Professor of Chemistry** (affiliated with Computational & Data Science)
+**Middle Tennessee State University**
 
 <span style='color: $twitter-color;'>**Professional Experience**</span>
 <br/>2023.08-Present    Postdoc Northwestern University
