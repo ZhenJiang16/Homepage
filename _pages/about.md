@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-**Assistant Professor of Chemistry** (affiliated with Computational & Data Science)
-<br/>**Middle Tennessee State University**
+<div class="full-bleed-rule"></div>
+<span style='color: $twitter-color;'>**Postdoc Experience**</span>
+<br/>2023.08-2025.08    MSE at Northwestern University with Prof. Christopher M. Wolverton
+<br/>2022.08-2023.07    ChemE at University of Wisconsin-Madison with Prof. Manos Mavrikakis
+<br/>2019.08-2022.07    Chem at University of Pennsylvania with Prof. Andrew M Rappe
 
-<span style='color: $twitter-color;'>**Postdoc Training**</span>
-Materials Science & Engineering at Northwestern University with Prof. Chris M. Wolverton (2023-2025), Chemical Engineering at UW-Madison with Prof. Manos Mavrikakis (2022-2023), Chemistry at UPenn with Professor Andrew M. Rappe (2019-2022)
-
+<div class="full-bleed-rule"></div>
 <span style='color: $twitter-color;'>**Educational Background**</span>
-<br/>2016.01-2019.08    PhD. University of Nebraska-Lincoln
-<br/>2011.09-2014.06    M.S. Xiamen University 
-<br/>2007.09-2011.06    B.S. Nanjing University of Chinese Medicine
+<br/>2016.01-2019.08    PhD. in ChemE at University of Nebraska-Lincoln
+<br/>2011.09-2014.06    M.S. in Chem at Xiamen University 
+<br/>2007.09-2011.06    B.S. in Pharmacy&Chem at Nanjing University of Chinese Medicine
 
 ![]({{site.baseurl}}/images/website_homepage_2024.png){: height="250px" width="800px" style="display:block"}
 <style>
