@@ -17,6 +17,7 @@ redirect_from:
 </div>
 
 <span style='color: $twitter-color;'>**Academia Experience**</span>
+<!-- Tight list: no leading <br/>, small top margin -->
 <div style="font-size:0.9em;">
 <br/>2023-2025 Postdoc in MSE at Northwestern University with Prof. Christopher M. Wolverton
 <br/>2022-2023 Postdoc in ChemE at University of Wisconsin-Madison with Prof. Manos Mavrikakis
