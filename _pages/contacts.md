@@ -9,19 +9,19 @@ author_profile: true
 
 <center><b>Email</b></center>
 
-<center><u> zhen.jiang@northwestern.edu</u></center>
+<center><u> zjiang1@mtsu.edu</u></center>
 
 <br/>
 <center><b>Current Affiliation</b></center>
 
-<center> Department of Materials Science and Engineering, Northwestern University, USA, 60208</center>
-<center> Prof. Chris Wolverton's group <a href="https://sites.google.com/site/wolvertonresearchgroup/welcome?authuser=0"> [website]</a></center>
+<center> Department of Chemistry, Middle Tennessee State University, USA, 37130</center>
+<center> Department Page <a href="https://w1.mtsu.edu/faculty/zhen-jiang"> [website]</a></center>
 
 <br/>
 
 <center><b>Mail Address</b></center>
 
-<center>Rm M489, 2145 Sheridan Rd, Evanston, IL, USA, 60208</center>
+<center>Rm 3022, Science Building, Murfreesboro, TN, USA, 37130</center>
 
 <br/>
 
