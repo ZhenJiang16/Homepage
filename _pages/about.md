@@ -7,11 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Assistant Professor
- <br/>Department of Chemistry
- <br/>Department of Computational and Data Science
- <br/>Middle Tennessee State University** 
-
+<div style="text-align:center; margin:0 auto 1rem; line-height:1.25; font-size:1.05em;">
+  <strong>
+    Assistant Professor<br/>
+    Department of Chemistry<br/>
+    Department of Computational and Data Science<br/>
+    Middle Tennessee State University
+  </strong>
+</div>
 
 <div class="full-bleed-rule"></div>
 <span style='color: $twitter-color;'>**Academia Experience**</span>
