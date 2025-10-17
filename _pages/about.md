@@ -10,9 +10,9 @@ redirect_from:
 <div style="text-align:center; margin:0 auto 1rem; line-height:1.25; font-size:1.05em;">
   <strong>
     <span style="color:#1DA1F2">Assistant Professor</span><br/>
-    Department of Chemistry<br/>
-    Department of Computational and Data Science<br/>
-    Middle Tennessee State University
+    <span style="color:#1DA1F2">Department of Chemistry</span><br/>
+    <span style="color:#1DA1F2">Department of Computational and Data Science</span><br/>
+    <span style="color:#1DA1F2">Middle Tennessee State University</span>
   </strong>
 </div>
 
