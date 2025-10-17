@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Assistant Professor in the Department of Chemistry at Middle Tennessee State University, affiliated with the Department of Computational and Data Science** 
+**Assistant Professor
+ <br/>Department of Chemistry
+ <br/>Department of Computational and Data Science
+ <br/>Middle Tennessee State University** 
 
 
 <div class="full-bleed-rule"></div>
