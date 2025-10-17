@@ -31,17 +31,17 @@ redirect_from:
 2007-2011  BS in Pharm. & Chem. at Nanjing University of Chinese Medicine
 </div>
 
-<!-- Selected Publications: heading with spacing like Academia Experience -->
-<div style="color:#1DA1F2; font-weight:700; margin:1rem 0 0; line-height:1;">
+<!-- Selected Publications: use a block element with bottom margin -->
+<div style="color:#1DA1F2; font-weight:700; line-height:1; margin:1rem 0 0.4rem;">
   Selected Publications
 </div>
 
-<!-- small gap below heading, and some bottom space after the banner -->
-<div style="margin:0.25rem 0 1rem;">
+<!-- Image with its own bottom margin -->
+<p style="margin:0 0 1rem;">
   <img src="{{site.baseurl}}/images/website_homepage_2024.png"
        alt="highlights"
        style="max-width:800px;width:100%;height:auto;display:block;margin:0 auto;">
-</div>
+</p>
 <style>
 table border-collapse="collapse" border="-10"
 table th:first-of-type {
