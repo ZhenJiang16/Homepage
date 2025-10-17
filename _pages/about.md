@@ -11,14 +11,14 @@ redirect_from:
 <div class="full-bleed-rule"></div>
 <span style='color: $twitter-color;'>**Postdoc Experience**</span>
 <br/>2023-2025    <em><span style="color:#7e22ce">MSE</span></em> at <span style="color: #1DA1F2;">Northwestern University</span> with Prof. Christopher M. Wolverton
-<br/>2022-2023    <em>ChemE</em> at <span style="color: #1DA1F2;">University of Wisconsin-Madison</span> with Prof. Manos Mavrikakis
-<br/>2019-2022    <em>Chem</em> at <span style="color: #1DA1F2;">University of Pennsylvania</span> with Prof. Andrew M Rappe
+<br/>2022-2023    <em><span style="color:#7e22ce">ChemE</span></em> at <span style="color: #1DA1F2;">University of Wisconsin-Madison</span> with Prof. Manos Mavrikakis
+<br/>2019-2022    <em><span style="color:#7e22ce">Chem</span></em> at <span style="color: #1DA1F2;">University of Pennsylvania</span> with Prof. Andrew M. Rappe
 
 <div class="full-bleed-rule"></div>
 <span style='color: $twitter-color;'>**Educational Background**</span>
-<br/>2016.01-2019.08    <em>PhD in ChemE</em> at <span style="color: #1DA1F2;">University of Nebraska-Lincoln</span> with Prof. Vitaly Alexandrov
-<br/>2011.09-2014.06    <em>MS in Chem</em> at <span style="color: #1DA1F2;">Xiamen University</span> with Prof. Peifeng Su, and Prof. Wei Wu
-<br/>2007.09-2011.06    <em>BS in Pharm&Chem</em> at <span style="color: #1DA1F2;">Nanjing University of Chinese Medicine</span>
+<br/>2016-2019    <em><span style="color:#7e22ce">PhD in ChemE</span></em> at <span style="color: #1DA1F2;">University of Nebraska-Lincoln</span> with Prof. Vitaly Alexandrov
+<br/>2011-2014    <em><span style="color:#7e22ce">MS in Chem</span></em> at <span style="color: #1DA1F2;">Xiamen University</span> with Prof. Peifeng Su, and Prof. Wei Wu
+<br/>2007-2011    <em><span style="color:#7e22ce">BS in Pharm&Chem</span></em> at <span style="color: #1DA1F2;">Nanjing University of Chinese Medicine</span>
 
 ![]({{site.baseurl}}/images/website_homepage_2024.png){: height="250px" width="800px" style="display:block"}
 <style>
