@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 **Assistant Professor of Chemistry** (affiliated with Computational & Data Science)
-**Middle Tennessee State University**
+<br/>**Middle Tennessee State University**
 
 <span style='color: $twitter-color;'>**Postdoc Training**</span>
 Materials Science & Engineering at Northwestern University with Prof. Chris M. Wolverton (2023-2025), Chemical Engineering at UW-Madison with Prof. Manos Mavrikakis (2022-2023), Chemistry at UPenn with Professor Andrew M. Rappe (2019-2022)
