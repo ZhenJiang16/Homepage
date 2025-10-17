@@ -16,15 +16,19 @@ redirect_from:
   </strong>
 </div>
 
-<span style='color: $twitter-color;'>**Academia Experience**</span>
+<!-- Heading with zero bottom margin -->
+<div style="color:#1DA1F2; font-weight:700; margin:0; line-height:1;">
+  Academia Experience
+</div>
+
 <!-- Tight list: no leading <br/>, small top margin -->
-<div style="font-size:0.9em;">
-<br/>2023-2025 Postdoc in MSE at Northwestern University with Prof. Christopher M. Wolverton
-<br/>2022-2023 Postdoc in ChemE at University of Wisconsin-Madison with Prof. Manos Mavrikakis
-<br/>2019-2022 Postdoc in Chem at University of Pennsylvania with Prof. Andrew M. Rappe
-<br/>2016-2019 PhD in ChemE at University of Nebraska-Lincoln with Prof. Vitaly Alexandrov
-<br/>2011-2014 MS in Chem at Xiamen University with Prof. Peifeng Su, and Prof. Wei Wu
-<br/>2007-2011 BS in Pharm&Chem at Nanjing University of Chinese Medicine
+<div style="font-size:0.9em; line-height:1.45; margin-top:0.25rem;">
+2023-2025  Postdoc in Mater. Sci. Eng. at Northwestern University with Prof. Christopher M. Wolverton<br/>
+2022-2023  Postdoc in Chem. Eng. at University of Wisconsin-Madison with Prof. Manos Mavrikakis<br/>
+2019-2022  Postdoc in Chem. at University of Pennsylvania with Prof. Andrew M. Rappe<br/>
+2016-2019  PhD in Chem. Eng. at University of Nebraska-Lincoln with Prof. Vitaly Alexandrov<br/>
+2011-2014  MS in Chem. at Xiamen University with Prof. Peifeng Su, and Prof. Wei Wu<br/>
+2007-2011  BS in Pharm. & Chem. at Nanjing University of Chinese Medicine
 </div>
 
 <span style='color: $twitter-color;'>**Selected Publications**</span>
